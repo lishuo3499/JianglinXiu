@@ -1,0 +1,263 @@
+{% extends 'base.html' %}
+
+
+<body>
+
+{% block banner %}
+    {% include '_banner.html' %}
+{% endblock %}
+
+{% block mainBody %}
+    <main>
+        <div class="nav-container">
+
+        </div> <!-- /.nav-container -->
+
+        <section id="about" class="about">
+
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-md-8 col-md-offset-2">
+
+                        <!-- Section title -->
+                        <h2 class="title -black">小秀秀</h2>
+
+                        <span class="subtitle h3 -yellow">看到你笑的样子我就很开心。</span>
+
+                    </div>
+
+                </div>
+
+                <div class="row box-container">
+
+                    <div class="col-sm-4">
+
+                        <div class="about-box">
+
+                            <h3 class="title -one -black">可爱的</h3>
+
+                            <p class="desc">，像一头温驯美丽的小鹿</p>
+
+                        </div> <!-- /.about-box -->
+
+                    </div>
+
+                    <div class="col-sm-4">
+
+                        <div class="about-box">
+
+                            <h3 class="title -two -black">小脾气</h3>
+
+                            <p class="desc">像</p>
+
+                        </div> <!-- /.about-box -->
+
+                    </div>
+
+                    <div class="col-sm-4">
+
+                        <div class="about-box">
+
+                            <h3 class="title -three -black">宽容</h3>
+
+                            <p class="desc">，是对我的ai</p>
+
+                        </div> <!-- /.about-box -->
+
+                    </div>
+
+                </div> <!-- /.row -->
+
+            </div> <!-- /.box-container -->
+
+        </section> <!-- /.about -->
+
+        <section id="portfolio" class="portfolio">
+
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-md-8 col-md-offset-2">
+
+                        <!-- Section title -->
+                        <h2 class="title -black">我</h2>
+
+                        <span class="subtitle h3 -yellow">想变成风去撩一撩你</span>
+
+                    </div>
+
+                </div> <!-- /.row -->
+
+                <div class="row box-container">
+                    {% for atlas in blog %}
+                    <div class="col-xxs-12 col-xs-6 col-md-3" style="overflow: hidden;">
+
+                        <div class="portfolio-item" style="overflow: hidden;">
+
+                            <img src="/media/{{ atlas.img }}" title="Portfolio image one title"
+                                 alt="Portfolio image one description" style="width: 213px;overflow: hidden;">
+
+                            <div class="overlay">
+                                <div class="content">
+                                    <span class="h2 -black text-center">小可爱</span>
+                                    <span class="h3 -white text-center"></span>
+                                </div>
+                            </div> <!-- /.overlay -->
+
+                        </div> <!-- /.portfolio-item -->
+
+                    </div>
+                 {% endfor %}
+
+
+                </div> <!-- /.row -->
+
+            </div> <!-- /.container -->
+
+{#            <p class="load-more -yellow text-center">Oh...We have more of these</p>#}
+
+            <a href="javascript:void(0)" class="chevron-down">
+                <img class="icon" src="/static/Blog/img/chevron_down_black.svg" title="Load more..."
+                     alt="Chevron pointing downwards">
+                <span class="sr-only">Load more...</span>
+            </a>
+
+        </section> <!-- /.portfolio -->
+
+        <section id="quote" class="quote">
+
+            <!-- Section title -->
+            <h2 class="sr-only">Quote</h2>
+
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-md-6 col-md-offset-3">
+						
+						<span class="h2 -black text-center"></span>
+
+                        <span class="h3 -white text-center"></span>
+
+                    </div>
+
+                </div> <!-- /.row -->
+
+            </div> <!-- /.container -->
+
+        </section> <!-- /.quote -->
+
+
+{#        <section id="clients" class="clients">#}
+{##}
+{#            <div class="container">#}
+{##}
+{#                <div class="row">#}
+{##}
+{#                    <div class="col-md-8 col-md-offset-2">#}
+{#                        <!-- Section title -->#}
+{#                        <h2 class="title -white">Clients</h2>#}
+{##}
+{#                        <span class="subtitle h3 -yellow">Somebody actually pay us for these stuff</span>#}
+{##}
+{#                    </div>#}
+{##}
+{#                </div> <!-- /.row -->#}
+{##}
+{#                <div class="row box-container">#}
+{##}
+{#                    <div class="col-xs-6 col-sm-4 col-md-2">#}
+{##}
+{#                        <div class="logo-box">#}
+{##}
+{#                            <a href="javascript:void(0)">#}
+{#                                <img class="client-logo" src="/static/Blog/img/clients/logo_01.svg"#}
+{#                                     title="Client logo one title" alt="Client logo one description">#}
+{#                            </a>#}
+{##}
+{#                        </div> <!-- /.logo-box -->#}
+{##}
+{#                    </div>#}
+{##}
+{#                    <div class="col-xs-6 col-sm-4 col-md-2">#}
+{##}
+{#                        <div class="logo-box">#}
+{##}
+{#                            <a href="javascript:void(0)">#}
+{#                                <img class="client-logo" src="/static/Blog/img/clients/logo_02.svg"#}
+{#                                     title="Client logo two title" alt="Client logo two description">#}
+{#                            </a>#}
+{##}
+{#                        </div> <!-- /.logo-box -->#}
+{##}
+{#                    </div>#}
+{##}
+{#                    <div class="col-xs-6 col-sm-4 col-md-2">#}
+{##}
+{#                        <div class="logo-box">#}
+{##}
+{#                            <a href="javascript:void(0)">#}
+{#                                <img class="client-logo" src="/static/Blog/img/clients/logo_03.svg"#}
+{#                                     title="Client logo three title" alt="Client logo three description">#}
+{#                            </a>#}
+{##}
+{#                        </div> <!-- /.logo-box -->#}
+{##}
+{#                    </div>#}
+{##}
+{#                    <div class="col-xs-6 col-sm-4 col-md-2">#}
+{##}
+{#                        <div class="logo-box">#}
+{##}
+{#                            <a href="javascript:void(0)">#}
+{#                                <img class="client-logo" src="/static/Blog/img/clients/logo_04.svg"#}
+{#                                     title="Client logo four title" alt="Client logo four description">#}
+{#                            </a>#}
+{##}
+{#                        </div> <!-- /.logo-box -->#}
+{##}
+{#                    </div>#}
+{##}
+{#                    <div class="col-xs-6 col-sm-4 col-md-2">#}
+{##}
+{#                        <div class="logo-box">#}
+{##}
+{#                            <a href="javascript:void(0)">#}
+{#                                <img class="client-logo" src="/static/Blog/img/clients/logo_05.svg"#}
+{#                                     title="Client logo five title" alt="Client logo five description">#}
+{#                            </a>#}
+{##}
+{#                        </div> <!-- /.logo-box -->#}
+{##}
+{#                    </div>#}
+{##}
+{#                    <div class="col-xs-6 col-sm-4 col-md-2">#}
+{##}
+{#                        <div class="logo-box">#}
+{##}
+{#                            <a href="javascript:void(0)">#}
+{#                                <img class="client-logo" src="/static/Blog/img/clients/logo_06.svg"#}
+{#                                     title="Client logo six title" alt="Client logo six description">#}
+{#                            </a>#}
+{##}
+{#                        </div> <!-- /.logo-box -->#}
+{##}
+{#                    </div>#}
+{##}
+{#                </div> <!-- /.row -->#}
+{##}
+{#            </div> <!-- /.container -->#}
+{##}
+{#        </section> <!-- /.clients -->#}
+
+
+    </main>
+{% endblock %}
+
+
+{% block footer %}
+    {#    {% include '_footer.html' %}#}
+{% endblock %}

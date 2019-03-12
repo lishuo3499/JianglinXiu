@@ -1,0 +1,1780 @@
+[12/Mar/2018 12:40:48]"GET / HTTP/1.1" 200 14675
+[12/Mar/2018 12:40:48]"GET /static/Blog/css/yellowmoon-font.css HTTP/1.1" 200 1388
+[12/Mar/2018 12:40:48]"GET /static/Blog/css/style.css HTTP/1.1" 200 15547
+[12/Mar/2018 12:40:48]"GET /static/Blog/js/libs/smooth-scroll.min.js HTTP/1.1" 200 5278
+[12/Mar/2018 12:40:48]"GET /static/Blog/js/libs/modernizr.mq.js HTTP/1.1" 200 2633
+[12/Mar/2018 12:40:48]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[12/Mar/2018 12:40:48]"GET /static/Blog/css/bootstrap.min.css HTTP/1.1" 200 121200
+[12/Mar/2018 12:40:48]"GET /static/blogdetails/css/assets/normalize.css HTTP/1.1" 200 8132
+[12/Mar/2018 12:40:48]"GET /static/Blog/js/custom.js HTTP/1.1" 200 3434
+[12/Mar/2018 12:40:48]"GET /static/blogdetails/css/font-awesome.min.css HTTP/1.1" 200 29070
+[12/Mar/2018 12:40:48]"GET /static/blogdetails/css/main.css HTTP/1.1" 200 12636
+[12/Mar/2018 12:40:48]"GET /static/blogdetails/css/responsive.css HTTP/1.1" 200 2697
+[12/Mar/2018 12:40:48]"GET /static/blogdetails/css/assets/bootstrap.min.css HTTP/1.1" 200 121205
+[12/Mar/2018 12:40:48]"GET /static/blogdetails/js/assets/plugins.js HTTP/1.1" 200 784
+[12/Mar/2018 12:40:48]"GET /static/blogdetails/js/assets/modernizr-2.8.3.min.js HTTP/1.1" 200 15518
+[12/Mar/2018 12:40:48]"GET /static/blogdetails/js/assets/bootstrap.min.js HTTP/1.1" 200 37051
+[12/Mar/2018 12:40:48]"GET /static/blogdetails/js/main.js HTTP/1.1" 200 434
+[12/Mar/2018 12:40:48]"GET /static/blogdetails/js/jquery.nicescroll.min.js HTTP/1.1" 200 57896
+[12/Mar/2018 12:40:48]"GET /static/Blog/img/chevron_down_white.svg HTTP/1.1" 200 301
+[12/Mar/2018 12:40:48]"GET /media/upload/35923497445_vYOueIb.jpg HTTP/1.1" 200 62541
+[12/Mar/2018 12:40:48]"GET /static/Blog/img/logo/yellowmoon_logo_01.svg HTTP/1.1" 200 1481
+[12/Mar/2018 12:40:48]"GET /static/Blog/img/logo/yellowmoon_logo_02.jpg HTTP/1.1" 200 67353
+[12/Mar/2018 12:40:48]"GET /media/upload/35923497445.jpg HTTP/1.1" 200 139301
+[12/Mar/2018 12:40:48]"GET /media/upload/35923497445_hyfsRXB.jpg HTTP/1.1" 200 106539
+[12/Mar/2018 12:40:48]"GET /static/Blog/fonts/yellowmoon.ttf?j6ou47 HTTP/1.1" 200 3648
+[12/Mar/2018 12:40:48]"GET /static/Blog/img/chevron_down_black.svg HTTP/1.1" 200 299
+[12/Mar/2018 12:40:49]"GET /media/upload/35923497445_WFuAffh.jpg HTTP/1.1" 200 304765
+[12/Mar/2018 12:40:49]"GET /static/Blog/img/about_bg.jpg HTTP/1.1" 200 112509
+[12/Mar/2018 12:40:50]"GET /static/Blog/img/header_bg.jpg HTTP/1.1" 200 650270
+[12/Mar/2018 12:40:51]"GET /media/upload/35923497445_LRj3bhe.jpg HTTP/1.1" 200 1691374
+[12/Mar/2018 12:40:52]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 5551516
+[12/Mar/2018 12:40:52]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 3710447
+[12/Mar/2018 12:40:53]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 4922231
+[12/Mar/2018 12:40:53]"GET /favicon.ico HTTP/1.1" 404 3100
+[12/Mar/2018 12:41:10]"GET / HTTP/1.1" 200 14675
+[12/Mar/2018 12:41:10]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 304 0
+[12/Mar/2018 12:41:10]"GET /static/Blog/js/libs/smooth-scroll.min.js HTTP/1.1" 304 0
+[12/Mar/2018 12:41:10]"GET /static/Blog/js/libs/modernizr.mq.js HTTP/1.1" 304 0
+[12/Mar/2018 12:41:10]"GET /static/Blog/js/custom.js HTTP/1.1" 304 0
+[12/Mar/2018 12:41:10]"GET /static/blogdetails/js/assets/modernizr-2.8.3.min.js HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /static/blogdetails/js/assets/plugins.js HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /static/Blog/css/bootstrap.min.css HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /static/blogdetails/js/assets/bootstrap.min.js HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /static/Blog/css/style.css HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /static/Blog/css/yellowmoon-font.css HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /static/blogdetails/js/main.js HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /static/blogdetails/css/assets/bootstrap.min.css HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /static/blogdetails/js/jquery.nicescroll.min.js HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /static/blogdetails/css/assets/normalize.css HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /static/blogdetails/css/font-awesome.min.css HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /static/blogdetails/css/main.css HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /static/blogdetails/css/responsive.css HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /static/Blog/img/logo/yellowmoon_logo_01.svg HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /static/Blog/img/chevron_down_white.svg HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /static/Blog/img/logo/yellowmoon_logo_02.jpg HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /media/upload/35923497445.jpg HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /media/upload/35923497445_vYOueIb.jpg HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /media/upload/35923497445_hyfsRXB.jpg HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /media/upload/35923497445_LRj3bhe.jpg HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /media/upload/35923497445_WFuAffh.jpg HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /static/Blog/img/chevron_down_black.svg HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /static/Blog/img/header_bg.jpg HTTP/1.1" 304 0
+[12/Mar/2018 12:41:11]"GET /static/Blog/img/about_bg.jpg HTTP/1.1" 304 0
+[12/Mar/2018 12:45:36]"GET / HTTP/1.1" 200 14675
+[12/Mar/2018 12:45:36]"GET /static/Blog/img/logo/yellowmoon_logo_01.svg HTTP/1.1" 200 1481
+[12/Mar/2018 12:45:36]"GET /static/blogdetails/css/main.css HTTP/1.1" 200 12636
+[12/Mar/2018 12:45:36]"GET /static/blogdetails/css/assets/normalize.css HTTP/1.1" 200 8132
+[12/Mar/2018 12:45:36]"GET /static/Blog/js/custom.js HTTP/1.1" 200 3434
+[12/Mar/2018 12:45:36]"GET /static/blogdetails/js/main.js HTTP/1.1" 200 434
+[12/Mar/2018 12:45:36]"GET /static/blogdetails/css/responsive.css HTTP/1.1" 200 2697
+[12/Mar/2018 12:45:36]"GET /static/Blog/js/libs/modernizr.mq.js HTTP/1.1" 200 2633
+[12/Mar/2018 12:45:36]"GET /static/blogdetails/js/assets/modernizr-2.8.3.min.js HTTP/1.1" 200 15518
+[12/Mar/2018 12:45:36]"GET /static/blogdetails/js/assets/bootstrap.min.js HTTP/1.1" 200 37051
+[12/Mar/2018 12:45:36]"GET /static/blogdetails/js/assets/plugins.js HTTP/1.1" 200 784
+[12/Mar/2018 12:45:36]"GET /static/blogdetails/js/jquery.nicescroll.min.js HTTP/1.1" 200 57896
+[12/Mar/2018 12:45:36]"GET /static/Blog/img/chevron_down_white.svg HTTP/1.1" 200 301
+[12/Mar/2018 12:45:36]"GET /static/blogdetails/css/font-awesome.min.css HTTP/1.1" 200 29070
+[12/Mar/2018 12:45:36]"GET /static/Blog/img/chevron_down_black.svg HTTP/1.1" 200 299
+[12/Mar/2018 12:45:36]"GET /static/blogdetails/css/assets/bootstrap.min.css HTTP/1.1" 200 121205
+[12/Mar/2018 12:45:36]"GET /media/upload/35923497445_vYOueIb.jpg HTTP/1.1" 200 62541
+[12/Mar/2018 12:45:36]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[12/Mar/2018 12:45:36]"GET /static/Blog/img/logo/yellowmoon_logo_02.jpg HTTP/1.1" 200 67353
+[12/Mar/2018 12:45:36]"GET /media/upload/35923497445.jpg HTTP/1.1" 200 139301
+[12/Mar/2018 12:45:36]"GET /media/upload/35923497445_hyfsRXB.jpg HTTP/1.1" 200 106539
+[12/Mar/2018 12:45:36]"GET /static/Blog/css/bootstrap.min.css HTTP/1.1" 200 121200
+[12/Mar/2018 12:45:36]"GET /media/upload/35923497445_WFuAffh.jpg HTTP/1.1" 200 304765
+[12/Mar/2018 12:45:36]"GET /static/Blog/css/yellowmoon-font.css HTTP/1.1" 200 1388
+[12/Mar/2018 12:45:36]"GET /static/Blog/css/style.css HTTP/1.1" 200 15547
+[12/Mar/2018 12:45:36]"GET /static/Blog/js/libs/smooth-scroll.min.js HTTP/1.1" 200 5278
+[12/Mar/2018 12:45:36]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 5551516
+[12/Mar/2018 12:45:37]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 4922231
+[12/Mar/2018 12:45:37]"GET /media/upload/35923497445_LRj3bhe.jpg HTTP/1.1" 200 1691374
+[12/Mar/2018 12:45:37]"GET /static/Blog/img/header_bg.jpg HTTP/1.1" 200 650270
+[12/Mar/2018 12:45:37]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 3710447
+[12/Mar/2018 12:45:38]"GET /static/Blog/img/about_bg.jpg HTTP/1.1" 200 112509
+[12/Mar/2018 12:45:44]"GET / HTTP/1.1" 200 14675
+[12/Mar/2018 12:45:44]"GET /static/Blog/js/libs/modernizr.mq.js HTTP/1.1" 200 2633
+[12/Mar/2018 12:45:44]"GET /static/blogdetails/css/font-awesome.min.css HTTP/1.1" 200 29070
+[12/Mar/2018 12:45:44]"GET /static/Blog/js/custom.js HTTP/1.1" 200 3434
+[12/Mar/2018 12:45:44]"GET /static/blogdetails/js/main.js HTTP/1.1" 200 434
+[12/Mar/2018 12:45:44]"GET /static/blogdetails/js/assets/modernizr-2.8.3.min.js HTTP/1.1" 200 15518
+[12/Mar/2018 12:45:44]"GET /static/blogdetails/js/assets/bootstrap.min.js HTTP/1.1" 200 37051
+[12/Mar/2018 12:45:44]"GET /static/blogdetails/css/main.css HTTP/1.1" 200 12636
+[12/Mar/2018 12:45:44]"GET /static/blogdetails/css/responsive.css HTTP/1.1" 200 2697
+[12/Mar/2018 12:45:44]"GET /media/upload/35923497445_vYOueIb.jpg HTTP/1.1" 200 62541
+[12/Mar/2018 12:45:44]"GET /static/blogdetails/js/jquery.nicescroll.min.js HTTP/1.1" 200 57896
+[12/Mar/2018 12:45:44]"GET /static/Blog/css/yellowmoon-font.css HTTP/1.1" 200 1388
+[12/Mar/2018 12:45:44]"GET /static/Blog/css/style.css HTTP/1.1" 200 15547
+[12/Mar/2018 12:45:44]"GET /static/Blog/img/chevron_down_white.svg HTTP/1.1" 200 301
+[12/Mar/2018 12:45:44]"GET /static/Blog/js/libs/smooth-scroll.min.js HTTP/1.1" 200 5278
+[12/Mar/2018 12:45:44]"GET /static/Blog/img/chevron_down_black.svg HTTP/1.1" 200 299
+[12/Mar/2018 12:45:44]"GET /static/blogdetails/css/assets/normalize.css HTTP/1.1" 200 8132
+[12/Mar/2018 12:45:44]"GET /static/Blog/img/logo/yellowmoon_logo_01.svg HTTP/1.1" 200 1481
+[12/Mar/2018 12:45:44]"GET /static/blogdetails/js/assets/plugins.js HTTP/1.1" 200 784
+[12/Mar/2018 12:45:44]"GET /static/Blog/css/bootstrap.min.css HTTP/1.1" 200 121200
+[12/Mar/2018 12:45:44]"GET /static/blogdetails/css/assets/bootstrap.min.css HTTP/1.1" 200 121205
+[12/Mar/2018 12:45:44]"GET /static/Blog/img/logo/yellowmoon_logo_02.jpg HTTP/1.1" 200 67353
+[12/Mar/2018 12:45:44]"GET /media/upload/35923497445_hyfsRXB.jpg HTTP/1.1" 200 106539
+[12/Mar/2018 12:45:44]"GET /media/upload/35923497445_WFuAffh.jpg HTTP/1.1" 200 304765
+[12/Mar/2018 12:45:44]"GET /media/upload/35923497445.jpg HTTP/1.1" 200 139301
+[12/Mar/2018 12:45:44]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[12/Mar/2018 12:45:44]"GET /media/upload/35923497445_LRj3bhe.jpg HTTP/1.1" 200 1691374
+[12/Mar/2018 12:45:44]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 4922231
+[12/Mar/2018 12:45:44]"GET /static/Blog/img/header_bg.jpg HTTP/1.1" 200 650270
+[12/Mar/2018 12:45:45]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 3710447
+[12/Mar/2018 12:45:46]"GET /static/Blog/img/about_bg.jpg HTTP/1.1" 200 112509
+[12/Mar/2018 12:45:46]"GET /static/Blog/img/about_bg.jpg HTTP/1.1" 200 112509
+[12/Mar/2018 12:45:46]"GET /static/Blog/img/about_bg.jpg HTTP/1.1" 200 112509
+[12/Mar/2018 12:45:46]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 5551516
+[12/Mar/2018 12:45:52]"GET /favicon.ico HTTP/1.1" 404 3100
+[12/Mar/2018 12:45:53]"GET /blog/ HTTP/1.1" 200 6635
+[12/Mar/2018 12:45:53]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[12/Mar/2018 12:45:53]"GET /media/upload/6495047985980.jpg HTTP/1.1" 200 592900
+[12/Mar/2018 12:45:53]"GET /static/blogdetails/css/.../fonts/fontawesome-webfont.woff?v=4.6.3 HTTP/1.1" 404 1779
+[12/Mar/2018 12:45:53]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[12/Mar/2018 12:45:53]"GET /static/blogdetails/css/.../fonts/fontawesome-webfont.ttf?v=4.6.3 HTTP/1.1" 404 1776
+[12/Mar/2018 12:45:54]"GET /favicon.ico HTTP/1.1" 404 3100
+[12/Mar/2018 12:45:58]"GET /blogdetails/2/ HTTP/1.1" 200 8381
+[12/Mar/2018 12:45:58]"GET /blogdetails/2/images/footer-logo.png HTTP/1.1" 404 3175
+[12/Mar/2018 12:45:58]"GET /static/blogdetails/css/.../fonts/fontawesome-webfont.woff?v=4.6.3 HTTP/1.1" 404 1779
+[12/Mar/2018 12:45:59]"GET /static/blogdetails/css/.../fonts/fontawesome-webfont.ttf?v=4.6.3 HTTP/1.1" 404 1776
+[12/Mar/2018 12:45:59]"GET /favicon.ico HTTP/1.1" 404 3100
+[12/Mar/2018 12:46:00]"GET /media/upload/6495047985980.jpg HTTP/1.1" 200 592900
+[12/Mar/2018 12:46:05]"GET /atlas/ HTTP/1.1" 200 15466
+[12/Mar/2018 12:46:05]"GET /static/atlas/Font-Awesome-4.7/css/font-awesome.min.css HTTP/1.1" 200 31000
+[12/Mar/2018 12:46:05]"GET /static/atlas/css/hero-slider-style.css HTTP/1.1" 200 12651
+[12/Mar/2018 12:46:05]"GET /static/atlas/css/magnific-popup.css HTTP/1.1" 200 6951
+[12/Mar/2018 12:46:05]"GET /static/atlas/css/templatemo-style.css HTTP/1.1" 200 17699
+[12/Mar/2018 12:46:05]"GET /static/atlas/css/bootstrap.min.css HTTP/1.1" 200 105356
+[12/Mar/2018 12:46:05]"GET /static/atlas/js/jquery-1.11.3.min.js HTTP/1.1" 200 95992
+[12/Mar/2018 12:46:05]"GET /static/atlas/js/tether.min.js HTTP/1.1" 200 24632
+[12/Mar/2018 12:46:05]"GET /static/atlas/js/bootstrap.min.js HTTP/1.1" 200 44735
+[12/Mar/2018 12:46:05]"GET /static/atlas/js/hero-slider-main.js HTTP/1.1" 200 4824
+[12/Mar/2018 12:46:05]"GET /static/atlas/js/jquery.magnific-popup.min.js HTTP/1.1" 200 20216
+[12/Mar/2018 12:46:05]"GET /favicon.ico HTTP/1.1" 404 3100
+[12/Mar/2018 12:46:06]"GET /blogdetails/2/images/footer-logo.png HTTP/1.1" 404 3175
+[12/Mar/2018 12:46:14]"GET / HTTP/1.1" 200 14675
+[12/Mar/2018 12:46:14]"GET /favicon.ico HTTP/1.1" 404 3100
+[12/Mar/2018 13:22:13]"GET /blog/ HTTP/1.1" 200 6635
+[12/Mar/2018 13:22:13]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 304 0
+[12/Mar/2018 13:22:13]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[12/Mar/2018 13:22:13]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[12/Mar/2018 13:22:13]"GET /static/blogdetails/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 71896
+[12/Mar/2018 13:22:13]"GET /media/upload/6495047985980.jpg HTTP/1.1" 200 592900
+[12/Mar/2018 13:22:14]"GET /atlas/ HTTP/1.1" 200 15466
+[12/Mar/2018 13:22:14]"GET /static/atlas/Font-Awesome-4.7/css/font-awesome.min.css HTTP/1.1" 200 31000
+[12/Mar/2018 13:22:14]"GET /static/atlas/css/hero-slider-style.css HTTP/1.1" 200 12651
+[12/Mar/2018 13:22:14]"GET /static/atlas/css/templatemo-style.css HTTP/1.1" 200 17699
+[12/Mar/2018 13:22:14]"GET /static/atlas/css/magnific-popup.css HTTP/1.1" 200 6951
+[12/Mar/2018 13:22:14]"GET /static/atlas/css/bootstrap.min.css HTTP/1.1" 200 105356
+[12/Mar/2018 13:22:14]"GET /static/atlas/js/jquery-1.11.3.min.js HTTP/1.1" 200 95992
+[12/Mar/2018 13:22:14]"GET /static/atlas/js/tether.min.js HTTP/1.1" 200 24632
+[12/Mar/2018 13:22:14]"GET /static/atlas/js/bootstrap.min.js HTTP/1.1" 200 44735
+[12/Mar/2018 13:22:14]"GET /static/atlas/js/hero-slider-main.js HTTP/1.1" 200 4824
+[12/Mar/2018 13:22:14]"GET /static/atlas/js/jquery.magnific-popup.min.js HTTP/1.1" 200 20216
+[12/Mar/2018 13:22:14]"GET /media/upload/35923497445.jpg HTTP/1.1" 304 0
+[12/Mar/2018 13:22:14]"GET /media/upload/35923497445_hyfsRXB.jpg HTTP/1.1" 304 0
+[12/Mar/2018 13:22:14]"GET /media/upload/35923497445_vYOueIb.jpg HTTP/1.1" 304 0
+[12/Mar/2018 13:22:14]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 304 0
+[12/Mar/2018 13:22:14]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 304 0
+[12/Mar/2018 13:22:14]"GET /media/upload/35923497445_LRj3bhe.jpg HTTP/1.1" 304 0
+[12/Mar/2018 13:22:14]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 304 0
+[12/Mar/2018 13:22:14]"GET /media/upload/35923497445_WFuAffh.jpg HTTP/1.1" 304 0
+[12/Mar/2018 13:22:17]"GET / HTTP/1.1" 200 14675
+[12/Mar/2018 13:23:08]"GET / HTTP/1.1" 200 14675
+[12/Mar/2018 13:23:08]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 304 0
+[12/Mar/2018 13:23:08]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 304 0
+[12/Mar/2018 13:23:08]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 304 0
+[12/Mar/2018 13:23:08]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 304 0
+[12/Mar/2018 13:23:08]"GET /favicon.ico HTTP/1.1" 404 3100
+[12/Mar/2018 13:23:25]"GET /blog/ HTTP/1.1" 200 6635
+[12/Mar/2018 13:23:25]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[12/Mar/2018 13:23:26]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[12/Mar/2018 13:23:26]"GET /static/blogdetails/css/.../fonts/fontawesome-webfont.woff?v=4.6.3 HTTP/1.1" 404 1779
+[12/Mar/2018 13:23:26]"GET /static/blogdetails/css/.../fonts/fontawesome-webfont.ttf?v=4.6.3 HTTP/1.1" 404 1776
+[12/Mar/2018 13:23:26]"GET /favicon.ico HTTP/1.1" 404 3100
+[12/Mar/2018 13:23:35]"GET /blogdetails/2/ HTTP/1.1" 200 8381
+[12/Mar/2018 13:23:35]"GET /blogdetails/2/images/footer-logo.png HTTP/1.1" 404 3175
+[12/Mar/2018 13:23:35]"GET /static/blogdetails/css/.../fonts/fontawesome-webfont.woff?v=4.6.3 HTTP/1.1" 404 1779
+[12/Mar/2018 13:23:36]"GET /blogdetails/2/images/footer-logo.png HTTP/1.1" 404 3175
+[12/Mar/2018 13:23:36]"GET /static/blogdetails/css/.../fonts/fontawesome-webfont.ttf?v=4.6.3 HTTP/1.1" 404 1776
+[12/Mar/2018 13:23:36]"GET /favicon.ico HTTP/1.1" 404 3100
+[12/Mar/2018 13:23:42]"GET /atlas/ HTTP/1.1" 200 15466
+[12/Mar/2018 13:23:43]"GET /favicon.ico HTTP/1.1" 404 3100
+[12/Mar/2018 13:23:53]"GET / HTTP/1.1" 200 14675
+[12/Mar/2018 13:23:54]"GET /favicon.ico HTTP/1.1" 404 3100
+[12/Mar/2018 14:06:26]"GET / HTTP/1.1" 200 14675
+[12/Mar/2018 14:06:26]"GET /static/Blog/css/yellowmoon-font.css HTTP/1.1" 200 1388
+[12/Mar/2018 14:06:26]"GET /static/Blog/css/style.css HTTP/1.1" 200 15547
+[12/Mar/2018 14:06:26]"GET /static/Blog/css/bootstrap.min.css HTTP/1.1" 200 121200
+[12/Mar/2018 14:06:26]"GET /static/Blog/js/libs/smooth-scroll.min.js HTTP/1.1" 200 5278
+[12/Mar/2018 14:06:26]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[12/Mar/2018 14:06:27]"GET /static/Blog/js/libs/modernizr.mq.js HTTP/1.1" 200 2633
+[12/Mar/2018 14:06:27]"GET /static/blogdetails/js/assets/modernizr-2.8.3.min.js HTTP/1.1" 200 15518
+[12/Mar/2018 14:06:27]"GET /static/blogdetails/css/responsive.css HTTP/1.1" 200 2697
+[12/Mar/2018 14:06:27]"GET /static/blogdetails/css/main.css HTTP/1.1" 200 12636
+[12/Mar/2018 14:06:27]"GET /static/blogdetails/css/font-awesome.min.css HTTP/1.1" 200 29070
+[12/Mar/2018 14:06:27]"GET /static/blogdetails/js/assets/bootstrap.min.js HTTP/1.1" 200 37051
+[12/Mar/2018 14:06:27]"GET /static/Blog/js/custom.js HTTP/1.1" 200 3434
+[12/Mar/2018 14:06:27]"GET /static/blogdetails/js/main.js HTTP/1.1" 200 434
+[12/Mar/2018 14:06:27]"GET /static/blogdetails/css/assets/bootstrap.min.css HTTP/1.1" 200 121205
+[12/Mar/2018 14:06:27]"GET /static/blogdetails/js/assets/plugins.js HTTP/1.1" 200 784
+[12/Mar/2018 14:06:27]"GET /static/blogdetails/css/assets/normalize.css HTTP/1.1" 200 8132
+[12/Mar/2018 14:06:27]"GET /static/blogdetails/js/jquery.nicescroll.min.js HTTP/1.1" 200 57896
+[12/Mar/2018 14:06:27]"GET /media/upload/35923497445_vYOueIb.jpg HTTP/1.1" 200 62541
+[12/Mar/2018 14:06:27]"GET /static/Blog/img/chevron_down_white.svg HTTP/1.1" 200 301
+[12/Mar/2018 14:06:27]"GET /static/Blog/img/logo/yellowmoon_logo_02.jpg HTTP/1.1" 200 67353
+[12/Mar/2018 14:06:27]"GET /static/Blog/img/logo/yellowmoon_logo_01.svg HTTP/1.1" 200 1481
+[12/Mar/2018 14:06:27]"GET /media/upload/35923497445_hyfsRXB.jpg HTTP/1.1" 200 106539
+[12/Mar/2018 14:06:27]"GET /media/upload/35923497445.jpg HTTP/1.1" 200 139301
+[12/Mar/2018 14:06:27]"GET /media/upload/35923497445_LRj3bhe.jpg HTTP/1.1" 200 1691374
+[12/Mar/2018 14:06:27]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 3710447
+[12/Mar/2018 14:06:27]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 4922231
+[12/Mar/2018 14:06:28]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 5551516
+[12/Mar/2018 14:07:04]"GET /static/Blog/img/chevron_down_black.svg HTTP/1.1" 200 299
+[12/Mar/2018 14:07:04]"GET /static/Blog/img/about_bg.jpg HTTP/1.1" 200 112509
+[12/Mar/2018 14:07:04]"GET /media/upload/35923497445_WFuAffh.jpg HTTP/1.1" 200 304765
+[12/Mar/2018 14:07:04]"GET /static/Blog/img/header_bg.jpg HTTP/1.1" 200 650270
+[12/Mar/2018 14:07:20]"GET /favicon.ico HTTP/1.1" 404 3100
+[12/Mar/2018 14:07:26]"GET / HTTP/1.1" 200 14675
+[12/Mar/2018 14:07:27]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[12/Mar/2018 14:07:28]"GET /static/Blog/js/libs/smooth-scroll.min.js HTTP/1.1" 200 5278
+[12/Mar/2018 14:07:28]"GET /static/Blog/js/libs/modernizr.mq.js HTTP/1.1" 200 2633
+[12/Mar/2018 14:07:29]"GET /static/Blog/js/custom.js HTTP/1.1" 200 3434
+[12/Mar/2018 14:07:29]"GET /static/blogdetails/js/assets/modernizr-2.8.3.min.js HTTP/1.1" 200 15518
+[12/Mar/2018 14:07:29]"GET /static/blogdetails/js/assets/plugins.js HTTP/1.1" 200 784
+[12/Mar/2018 14:07:29]"GET /static/blogdetails/js/assets/bootstrap.min.js HTTP/1.1" 200 37051
+[12/Mar/2018 14:07:30]"GET /static/blogdetails/js/main.js HTTP/1.1" 200 434
+[12/Mar/2018 14:07:30]"GET /static/blogdetails/js/jquery.nicescroll.min.js HTTP/1.1" 200 57896
+[12/Mar/2018 14:07:41]"GET /blog/ HTTP/1.1" 200 6635
+[12/Mar/2018 14:07:41]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[12/Mar/2018 14:07:41]"GET /media/upload/6495047985980.jpg HTTP/1.1" 200 592900
+[12/Mar/2018 14:07:41]"GET /static/blogdetails/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 71896
+[12/Mar/2018 14:07:56]"GET /blogdetails/2/ HTTP/1.1" 200 8381
+[12/Mar/2018 14:07:57]"GET /blogdetails/2/images/footer-logo.png HTTP/1.1" 404 3175
+[12/Mar/2018 14:08:13]"GET /atlas/ HTTP/1.1" 200 15466
+[12/Mar/2018 14:08:13]"GET /static/atlas/js/jquery-1.11.3.min.js HTTP/1.1" 200 95992
+[12/Mar/2018 14:08:13]"GET /static/atlas/Font-Awesome-4.7/css/font-awesome.min.css HTTP/1.1" 200 31000
+[12/Mar/2018 14:08:13]"GET /static/atlas/css/hero-slider-style.css HTTP/1.1" 200 12651
+[12/Mar/2018 14:08:13]"GET /static/atlas/css/magnific-popup.css HTTP/1.1" 200 6951
+[12/Mar/2018 14:08:13]"GET /static/atlas/css/templatemo-style.css HTTP/1.1" 200 17699
+[12/Mar/2018 14:08:13]"GET /static/atlas/js/bootstrap.min.js HTTP/1.1" 200 44735
+[12/Mar/2018 14:08:13]"GET /static/atlas/js/jquery.magnific-popup.min.js HTTP/1.1" 200 20216
+[12/Mar/2018 14:08:13]"GET /static/atlas/js/tether.min.js HTTP/1.1" 200 24632
+[12/Mar/2018 14:08:13]"GET /static/atlas/js/hero-slider-main.js HTTP/1.1" 200 4824
+[12/Mar/2018 14:08:13]"GET /static/atlas/css/bootstrap.min.css HTTP/1.1" 200 105356
+[12/Mar/2018 14:08:40]"GET /blog HTTP/1.1" 301 0
+[12/Mar/2018 14:08:40]"GET /blog/ HTTP/1.1" 200 6635
+[12/Mar/2018 14:08:42]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[12/Mar/2018 14:08:42]"GET /static/Blog/js/libs/smooth-scroll.min.js HTTP/1.1" 200 5278
+[12/Mar/2018 14:08:42]"GET /static/Blog/js/libs/modernizr.mq.js HTTP/1.1" 200 2633
+[12/Mar/2018 14:08:42]"GET /static/Blog/js/custom.js HTTP/1.1" 200 3434
+[12/Mar/2018 14:08:43]"GET /static/blogdetails/js/assets/modernizr-2.8.3.min.js HTTP/1.1" 200 15518
+[12/Mar/2018 14:08:43]"GET /static/blogdetails/js/assets/plugins.js HTTP/1.1" 200 784
+[12/Mar/2018 14:08:43]"GET /static/blogdetails/js/assets/bootstrap.min.js HTTP/1.1" 200 37051
+[12/Mar/2018 14:08:44]"GET /static/blogdetails/js/main.js HTTP/1.1" 200 434
+[12/Mar/2018 14:08:44]"GET /static/blogdetails/js/jquery.nicescroll.min.js HTTP/1.1" 200 57896
+[12/Mar/2018 14:08:55]"GET /blogdetails/2 HTTP/1.1" 301 0
+[12/Mar/2018 14:08:56]"GET /blogdetails/2/ HTTP/1.1" 200 8381
+[12/Mar/2018 14:08:56]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[12/Mar/2018 14:08:57]"GET /static/Blog/js/libs/smooth-scroll.min.js HTTP/1.1" 200 5278
+[12/Mar/2018 14:08:58]"GET /static/Blog/js/libs/modernizr.mq.js HTTP/1.1" 200 2633
+[12/Mar/2018 14:08:58]"GET /static/Blog/js/custom.js HTTP/1.1" 200 3434
+[12/Mar/2018 14:08:58]"GET /static/blogdetails/js/assets/modernizr-2.8.3.min.js HTTP/1.1" 200 15518
+[12/Mar/2018 14:08:58]"GET /static/blogdetails/js/assets/plugins.js HTTP/1.1" 200 784
+[12/Mar/2018 14:08:58]"GET /static/blogdetails/js/assets/bootstrap.min.js HTTP/1.1" 200 37051
+[12/Mar/2018 14:08:59]"GET /static/blogdetails/js/main.js HTTP/1.1" 200 434
+[12/Mar/2018 14:08:59]"GET /static/blogdetails/js/jquery.nicescroll.min.js HTTP/1.1" 200 57896
+[12/Mar/2018 14:09:06]"GET /written/ HTTP/1.1" 200 5810
+[12/Mar/2018 14:09:07]"GET /static/written/assets/css/admin.css HTTP/1.1" 200 5295
+[12/Mar/2018 14:09:07]"GET /static/written/assets/css/app.css HTTP/1.1" 200 38804
+[12/Mar/2018 14:09:07]"GET /static/written/assets/css/amazeui.min.css HTTP/1.1" 200 255214
+[12/Mar/2018 14:09:08]"GET /static/written/assets/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 71896
+[12/Mar/2018 14:09:10]"GET /static/written/assets/i/favicon.png HTTP/1.1" 200 1024
+[12/Mar/2018 14:09:11]"GET /blog/ HTTP/1.1" 200 6635
+[12/Mar/2018 14:09:11]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[12/Mar/2018 14:09:12]"GET /atlas HTTP/1.1" 301 0
+[12/Mar/2018 14:09:12]"GET /atlas/ HTTP/1.1" 200 15466
+[12/Mar/2018 14:09:13]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[12/Mar/2018 14:09:14]"GET /static/Blog/js/libs/smooth-scroll.min.js HTTP/1.1" 200 5278
+[12/Mar/2018 14:09:14]"GET /static/Blog/js/libs/modernizr.mq.js HTTP/1.1" 200 2633
+[12/Mar/2018 14:09:14]"GET /static/Blog/js/custom.js HTTP/1.1" 200 3434
+[12/Mar/2018 14:09:14]"GET /static/blogdetails/js/assets/modernizr-2.8.3.min.js HTTP/1.1" 200 15518
+[12/Mar/2018 14:09:15]"GET /static/blogdetails/js/assets/plugins.js HTTP/1.1" 200 784
+[12/Mar/2018 14:09:15]"GET /static/blogdetails/js/assets/bootstrap.min.js HTTP/1.1" 200 37051
+[12/Mar/2018 14:09:15]"GET /static/blogdetails/js/main.js HTTP/1.1" 200 434
+[12/Mar/2018 14:09:15]"GET /static/blogdetails/js/jquery.nicescroll.min.js HTTP/1.1" 200 57896
+[12/Mar/2018 14:09:16]"GET /static/atlas/js/jquery-1.11.3.min.js HTTP/1.1" 200 95992
+[12/Mar/2018 14:09:16]"GET /static/atlas/js/tether.min.js HTTP/1.1" 200 24632
+[12/Mar/2018 14:09:16]"GET /static/atlas/js/bootstrap.min.js HTTP/1.1" 200 44735
+[12/Mar/2018 14:09:17]"GET /static/atlas/js/hero-slider-main.js HTTP/1.1" 200 4824
+[12/Mar/2018 14:09:17]"GET /static/atlas/js/jquery.magnific-popup.min.js HTTP/1.1" 200 20216
+[12/Mar/2018 14:09:17]"GET / HTTP/1.1" 200 14675
+[12/Mar/2018 14:10:06]"GET /written HTTP/1.1" 301 0
+[12/Mar/2018 14:10:06]"GET /written/ HTTP/1.1" 200 5810
+[12/Mar/2018 14:10:39]"GET / HTTP/1.1" 200 14675
+[12/Mar/2018 16:24:11]"GET / HTTP/1.1" 200 14675
+[12/Mar/2018 16:24:11]"GET /static/Blog/css/style.css HTTP/1.1" 200 15547
+[12/Mar/2018 16:24:11]"GET /static/Blog/css/yellowmoon-font.css HTTP/1.1" 200 1388
+[12/Mar/2018 16:24:11]"GET /static/blogdetails/css/assets/normalize.css HTTP/1.1" 200 8132
+[12/Mar/2018 16:24:11]"GET /static/blogdetails/css/font-awesome.min.css HTTP/1.1" 200 29070
+[12/Mar/2018 16:24:11]"GET /static/Blog/css/bootstrap.min.css HTTP/1.1" 200 121200
+[12/Mar/2018 16:24:11]"GET /static/blogdetails/css/main.css HTTP/1.1" 200 12636
+[12/Mar/2018 16:24:11]"GET /static/blogdetails/css/assets/bootstrap.min.css HTTP/1.1" 200 121205
+[12/Mar/2018 16:24:11]"GET /static/blogdetails/css/responsive.css HTTP/1.1" 200 2697
+[12/Mar/2018 16:24:11]"GET /static/Blog/js/libs/smooth-scroll.min.js HTTP/1.1" 200 5278
+[12/Mar/2018 16:24:11]"GET /static/Blog/js/libs/modernizr.mq.js HTTP/1.1" 200 2633
+[12/Mar/2018 16:24:11]"GET /static/Blog/js/custom.js HTTP/1.1" 200 3434
+[12/Mar/2018 16:24:11]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[12/Mar/2018 16:24:11]"GET /static/blogdetails/js/assets/modernizr-2.8.3.min.js HTTP/1.1" 200 15518
+[12/Mar/2018 16:24:12]"GET /static/blogdetails/js/assets/plugins.js HTTP/1.1" 200 784
+[12/Mar/2018 16:24:12]"GET /static/blogdetails/js/assets/bootstrap.min.js HTTP/1.1" 200 37051
+[12/Mar/2018 16:24:12]"GET /static/blogdetails/js/main.js HTTP/1.1" 200 434
+[12/Mar/2018 16:24:12]"GET /static/blogdetails/js/jquery.nicescroll.min.js HTTP/1.1" 200 57896
+[12/Mar/2018 16:24:12]"GET /static/Blog/img/logo/yellowmoon_logo_01.svg HTTP/1.1" 200 1481
+[12/Mar/2018 16:24:12]"GET /static/Blog/img/chevron_down_white.svg HTTP/1.1" 200 301
+[12/Mar/2018 16:24:12]"GET /media/upload/35923497445_vYOueIb.jpg HTTP/1.1" 200 62541
+[12/Mar/2018 16:24:12]"GET /static/Blog/img/logo/yellowmoon_logo_02.jpg HTTP/1.1" 200 67353
+[12/Mar/2018 16:24:12]"GET /media/upload/35923497445.jpg HTTP/1.1" 200 139301
+[12/Mar/2018 16:24:12]"GET /media/upload/35923497445_hyfsRXB.jpg HTTP/1.1" 200 106539
+[12/Mar/2018 16:24:16]"GET /static/Blog/img/header_bg.jpg HTTP/1.1" 200 650270
+[12/Mar/2018 16:24:16]"GET /media/upload/35923497445_WFuAffh.jpg HTTP/1.1" 200 304765
+[12/Mar/2018 16:24:17]"GET /static/Blog/img/chevron_down_black.svg HTTP/1.1" 200 299
+[12/Mar/2018 16:24:17]"GET /media/upload/35923497445_LRj3bhe.jpg HTTP/1.1" 200 1691374
+[12/Mar/2018 16:24:19]"GET /static/Blog/img/about_bg.jpg HTTP/1.1" 200 112509
+[12/Mar/2018 16:24:27]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 3710447
+[12/Mar/2018 16:24:28]"GET /blog/ HTTP/1.1" 200 6635
+[12/Mar/2018 16:24:29]"GET /blog/ HTTP/1.1" 200 6635
+[12/Mar/2018 16:24:31]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 3817472
+[12/Mar/2018 16:24:31]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 2916352
+[12/Mar/2018 16:24:31]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[12/Mar/2018 16:24:31]"GET /static/blogdetails/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 71896
+[12/Mar/2018 16:24:32]"GET /media/upload/6495047985980.jpg HTTP/1.1" 200 592900
+[12/Mar/2018 16:24:32]"GET /favicon.ico HTTP/1.1" 404 3100
+[12/Mar/2018 16:24:35]"GET /atlas/ HTTP/1.1" 200 15466
+[12/Mar/2018 16:24:35]"GET /static/atlas/Font-Awesome-4.7/css/font-awesome.min.css HTTP/1.1" 200 31000
+[12/Mar/2018 16:24:35]"GET /static/atlas/css/hero-slider-style.css HTTP/1.1" 200 12651
+[12/Mar/2018 16:24:35]"GET /static/atlas/css/magnific-popup.css HTTP/1.1" 200 6951
+[12/Mar/2018 16:24:35]"GET /static/atlas/css/templatemo-style.css HTTP/1.1" 200 17699
+[12/Mar/2018 16:24:35]"GET /static/atlas/css/bootstrap.min.css HTTP/1.1" 200 105356
+[12/Mar/2018 16:24:35]"GET /static/atlas/js/jquery-1.11.3.min.js HTTP/1.1" 200 95992
+[12/Mar/2018 16:24:35]"GET /static/atlas/js/tether.min.js HTTP/1.1" 200 24632
+[12/Mar/2018 16:24:35]"GET /static/atlas/js/bootstrap.min.js HTTP/1.1" 200 44735
+[12/Mar/2018 16:24:35]"GET /static/atlas/js/hero-slider-main.js HTTP/1.1" 200 4824
+[12/Mar/2018 16:24:35]"GET /static/atlas/js/jquery.magnific-popup.min.js HTTP/1.1" 200 20216
+[12/Mar/2018 16:24:45]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 3710447
+[12/Mar/2018 16:24:48]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 5551516
+[12/Mar/2018 16:24:48]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 4922231
+[12/Mar/2018 16:25:01]"GET / HTTP/1.1" 200 14675
+[12/Mar/2018 16:25:33]"GET /blog/ HTTP/1.1" 200 6635
+[12/Mar/2018 16:25:33]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[12/Mar/2018 16:25:40]"GET /blogdetails/2/ HTTP/1.1" 200 8381
+[12/Mar/2018 16:25:41]"GET /blogdetails/2/images/footer-logo.png HTTP/1.1" 404 3175
+[12/Mar/2018 16:25:41]"GET /blogdetails/2/images/footer-logo.png HTTP/1.1" 404 3175
+[12/Mar/2018 16:25:59]"GET /atlas/ HTTP/1.1" 200 15466
+[12/Mar/2018 16:26:33]"GET / HTTP/1.1" 200 14675
+[12/Mar/2018 16:27:05]"GET / HTTP/1.1" 200 14675
+[12/Mar/2018 16:27:10]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 1613824
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 453, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python3.4/socket.py", line 394, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[12/Mar/2018 16:27:10]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 453, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python3.4/socket.py", line 394, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 95, in handle_error
+    super(ServerHandler, self).handle_error()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 182, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.4/wsgiref/simple_server.py", line 35, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+[12/Mar/2018 16:27:10]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 3407872
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 453, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python3.4/socket.py", line 394, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[12/Mar/2018 16:27:10]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 453, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python3.4/socket.py", line 394, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 95, in handle_error
+    super(ServerHandler, self).handle_error()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 182, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.4/wsgiref/simple_server.py", line 35, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+[12/Mar/2018 16:27:10]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 1630208
+[12/Mar/2018 16:27:11]"GET / HTTP/1.1" 200 14675
+[12/Mar/2018 16:27:19]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 3710447
+[12/Mar/2018 16:27:19]"GET /blog/ HTTP/1.1" 200 6635
+[12/Mar/2018 16:27:20]"GET /blog/ HTTP/1.1" 200 6635
+[12/Mar/2018 16:27:22]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 4186112
+[12/Mar/2018 16:27:22]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 4087808
+[12/Mar/2018 16:27:22]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[12/Mar/2018 16:27:22]"GET /favicon.ico HTTP/1.1" 404 3100
+[12/Mar/2018 16:27:25]"GET /atlas/ HTTP/1.1" 200 15466
+[12/Mar/2018 16:27:37]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 5551516
+[12/Mar/2018 16:27:37]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 3710447
+[12/Mar/2018 16:27:38]"GET /atlas/ HTTP/1.1" 200 15466
+[12/Mar/2018 16:27:38]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 3817472
+[12/Mar/2018 16:27:39]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 417792
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 453, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python3.4/socket.py", line 394, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[12/Mar/2018 16:27:39]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 453, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python3.4/socket.py", line 394, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 95, in handle_error
+    super(ServerHandler, self).handle_error()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 182, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.4/wsgiref/simple_server.py", line 35, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+[12/Mar/2018 16:27:39]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 385024
+[12/Mar/2018 16:27:39]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 319488
+[12/Mar/2018 16:27:51]"GET /atlas/ HTTP/1.1" 200 15466
+[12/Mar/2018 16:27:51]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 2990080
+[12/Mar/2018 16:27:51]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 4079616
+[12/Mar/2018 16:27:51]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 2752512
+[12/Mar/2018 16:27:56]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 1990656
+[12/Mar/2018 16:27:56]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 1990656
+[12/Mar/2018 16:27:56]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 1900544
+[12/Mar/2018 16:28:10]"GET / HTTP/1.1" 200 14675
+[12/Mar/2018 16:28:12]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 2260992
+[12/Mar/2018 16:28:12]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 2105344
+[12/Mar/2018 16:28:12]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 2105344
+[12/Mar/2018 16:28:29]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 5551516
+[12/Mar/2018 16:28:30]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 3710447
+[12/Mar/2018 16:28:31]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 4922231
+[12/Mar/2018 16:28:32]"GET /blog/ HTTP/1.1" 200 6635
+[12/Mar/2018 16:28:32]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[12/Mar/2018 16:28:34]"GET /written/ HTTP/1.1" 200 5810
+[12/Mar/2018 16:28:34]"GET /static/written/assets/css/admin.css HTTP/1.1" 200 5295
+[12/Mar/2018 16:28:34]"GET /static/written/assets/css/app.css HTTP/1.1" 200 38804
+[12/Mar/2018 16:28:34]"GET /static/written/assets/css/amazeui.min.css HTTP/1.1" 200 255214
+[12/Mar/2018 16:28:35]"GET /static/written/assets/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 71896
+[12/Mar/2018 16:28:36]"GET /static/written/assets/i/favicon.png HTTP/1.1" 200 1024
+[12/Mar/2018 16:29:06]"GET /blog/ HTTP/1.1" 200 6635
+[12/Mar/2018 16:29:06]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[12/Mar/2018 16:29:09]"GET /blogdetails/2/ HTTP/1.1" 200 8381
+[12/Mar/2018 16:29:09]"GET /blogdetails/2/images/footer-logo.png HTTP/1.1" 404 3175
+[12/Mar/2018 16:29:09]"GET /blogdetails/2/images/footer-logo.png HTTP/1.1" 404 3175
+[12/Mar/2018 18:07:29]"GET / HTTP/1.1" 200 14675
+[12/Mar/2018 18:07:30]"GET /static/Blog/css/bootstrap.min.css HTTP/1.1" 200 121200
+[12/Mar/2018 18:07:30]"GET /static/Blog/css/yellowmoon-font.css HTTP/1.1" 200 1388
+[12/Mar/2018 18:07:30]"GET /static/Blog/css/style.css HTTP/1.1" 200 15547
+[12/Mar/2018 18:07:30]"GET /static/Blog/js/libs/smooth-scroll.min.js HTTP/1.1" 200 5278
+[12/Mar/2018 18:07:30]"GET /static/Blog/js/libs/modernizr.mq.js HTTP/1.1" 200 2633
+[12/Mar/2018 18:07:31]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[12/Mar/2018 18:07:31]"GET /static/Blog/js/custom.js HTTP/1.1" 200 3434
+[12/Mar/2018 18:07:31]"GET /static/blogdetails/css/assets/normalize.css HTTP/1.1" 200 8132
+[12/Mar/2018 18:07:31]"GET /static/blogdetails/css/assets/bootstrap.min.css HTTP/1.1" 200 121205
+[12/Mar/2018 18:07:31]"GET /static/blogdetails/css/font-awesome.min.css HTTP/1.1" 200 29070
+[12/Mar/2018 18:07:31]"GET /static/blogdetails/css/main.css HTTP/1.1" 200 12636
+[12/Mar/2018 18:07:31]"GET /static/blogdetails/css/responsive.css HTTP/1.1" 200 2697
+[12/Mar/2018 18:07:31]"GET /static/blogdetails/js/assets/modernizr-2.8.3.min.js HTTP/1.1" 200 15518
+[12/Mar/2018 18:07:31]"GET /static/blogdetails/js/assets/plugins.js HTTP/1.1" 200 784
+[12/Mar/2018 18:07:31]"GET /static/blogdetails/js/assets/bootstrap.min.js HTTP/1.1" 200 37051
+[12/Mar/2018 18:07:32]"GET /static/blogdetails/js/main.js HTTP/1.1" 200 434
+[12/Mar/2018 18:07:32]"GET /static/blogdetails/js/jquery.nicescroll.min.js HTTP/1.1" 200 57896
+[12/Mar/2018 18:07:42]"GET /static/Blog/img/logo/yellowmoon_logo_01.svg HTTP/1.1" 200 1481
+[12/Mar/2018 18:07:42]"GET /static/Blog/img/chevron_down_white.svg HTTP/1.1" 200 301
+[12/Mar/2018 18:07:42]"GET /static/Blog/img/logo/yellowmoon_logo_02.jpg HTTP/1.1" 200 67353
+[12/Mar/2018 18:07:42]"GET /media/upload/35923497445.jpg HTTP/1.1" 200 139301
+[12/Mar/2018 18:07:42]"GET /media/upload/35923497445_vYOueIb.jpg HTTP/1.1" 200 62541
+[12/Mar/2018 18:07:42]"GET /media/upload/35923497445_hyfsRXB.jpg HTTP/1.1" 200 106539
+[12/Mar/2018 18:07:47]"GET /media/upload/35923497445_WFuAffh.jpg HTTP/1.1" 200 304765
+[12/Mar/2018 18:07:47]"GET /static/Blog/img/chevron_down_black.svg HTTP/1.1" 200 299
+[12/Mar/2018 18:07:58]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 3710447
+[12/Mar/2018 18:07:59]"GET /media/upload/35923497445_LRj3bhe.jpg HTTP/1.1" 200 1691374
+[12/Mar/2018 18:08:00]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 5551516
+[12/Mar/2018 18:08:09]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 4922231
+[13/Mar/2018 00:23:36]"GET / HTTP/1.1" 200 14675
+[13/Mar/2018 00:23:36]"GET /static/Blog/css/style.css HTTP/1.1" 304 0
+[13/Mar/2018 00:23:36]"GET /static/blogdetails/css/main.css HTTP/1.1" 304 0
+[13/Mar/2018 00:23:36]"GET /static/Blog/css/bootstrap.min.css HTTP/1.1" 304 0
+[13/Mar/2018 00:23:36]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 304 0
+[13/Mar/2018 00:23:36]"GET /static/Blog/img/logo/yellowmoon_logo_02.jpg HTTP/1.1" 304 0
+[13/Mar/2018 00:23:36]"GET /media/upload/35923497445.jpg HTTP/1.1" 304 0
+[13/Mar/2018 00:23:37]"GET /media/upload/35923497445_vYOueIb.jpg HTTP/1.1" 304 0
+[13/Mar/2018 00:23:37]"GET /media/upload/35923497445_hyfsRXB.jpg HTTP/1.1" 304 0
+[13/Mar/2018 00:23:37]"GET /media/upload/35923497445_LRj3bhe.jpg HTTP/1.1" 304 0
+[13/Mar/2018 00:23:37]"GET /media/upload/35923497445_WFuAffh.jpg HTTP/1.1" 304 0
+[13/Mar/2018 00:23:44]"GET /blog/ HTTP/1.1" 200 6635
+[13/Mar/2018 00:23:44]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 1933312
+[13/Mar/2018 00:23:44]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 1564672
+[13/Mar/2018 00:23:45]"GET /media/upload/6495047985980.jpg HTTP/1.1" 304 0
+[13/Mar/2018 00:23:45]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 1376256
+[13/Mar/2018 00:23:45]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[13/Mar/2018 00:23:45]"GET /favicon.ico HTTP/1.1" 404 3100
+[13/Mar/2018 00:23:50]"GET /atlas/ HTTP/1.1" 200 15466
+[13/Mar/2018 00:23:56]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 1572864
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 453, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python3.4/socket.py", line 394, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[13/Mar/2018 00:23:56]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 453, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python3.4/socket.py", line 394, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 95, in handle_error
+    super(ServerHandler, self).handle_error()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 182, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.4/wsgiref/simple_server.py", line 35, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+[13/Mar/2018 00:23:56]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 892928
+[13/Mar/2018 00:23:56]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 2154496
+[13/Mar/2018 00:23:59]"GET / HTTP/1.1" 200 14675
+[13/Mar/2018 00:24:03]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 1433600
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 453, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python3.4/socket.py", line 394, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[13/Mar/2018 00:24:03]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 453, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python3.4/socket.py", line 394, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 95, in handle_error
+    super(ServerHandler, self).handle_error()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 182, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.4/wsgiref/simple_server.py", line 35, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+[13/Mar/2018 00:24:03]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 876544
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 453, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python3.4/socket.py", line 394, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[13/Mar/2018 00:24:03]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 453, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python3.4/socket.py", line 394, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 95, in handle_error
+    super(ServerHandler, self).handle_error()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 182, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.4/wsgiref/simple_server.py", line 35, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+[13/Mar/2018 00:24:03]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 1179648
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 453, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python3.4/socket.py", line 394, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[13/Mar/2018 05:35:08]"GET / HTTP/1.1" 200 14675
+[13/Mar/2018 13:32:29]"GET /favicon.ico HTTP/1.1" 404 3100
+[13/Mar/2018 13:32:29]"GET / HTTP/1.1" 200 14675
+[13/Mar/2018 13:32:29]"GET / HTTP/1.1" 200 14675
+[13/Mar/2018 13:32:32]"GET /static/Blog/css/yellowmoon-font.css HTTP/1.1" 200 1388
+[13/Mar/2018 13:32:32]"GET /static/Blog/css/bootstrap.min.css HTTP/1.1" 200 121200
+[13/Mar/2018 13:32:32]"GET /static/Blog/css/style.css HTTP/1.1" 200 15547
+[13/Mar/2018 13:32:32]"GET /static/blogdetails/css/assets/normalize.css HTTP/1.1" 200 8132
+[13/Mar/2018 13:32:32]"GET /static/blogdetails/css/responsive.css HTTP/1.1" 200 2697
+[13/Mar/2018 13:32:32]"GET /static/blogdetails/css/main.css HTTP/1.1" 200 12636
+[13/Mar/2018 13:32:32]"GET /static/blogdetails/css/font-awesome.min.css HTTP/1.1" 200 29070
+[13/Mar/2018 13:32:32]"GET /static/Blog/js/libs/smooth-scroll.min.js HTTP/1.1" 200 5278
+[13/Mar/2018 13:32:32]"GET /static/Blog/js/libs/modernizr.mq.js HTTP/1.1" 200 2633
+[13/Mar/2018 13:32:32]"GET /static/Blog/js/custom.js HTTP/1.1" 200 3434
+[13/Mar/2018 13:32:32]"GET /static/blogdetails/js/assets/modernizr-2.8.3.min.js HTTP/1.1" 200 15518
+[13/Mar/2018 13:32:32]"GET /static/blogdetails/js/assets/plugins.js HTTP/1.1" 200 784
+[13/Mar/2018 13:32:32]"GET /static/blogdetails/js/main.js HTTP/1.1" 200 434
+[13/Mar/2018 13:32:32]"GET /static/blogdetails/css/assets/bootstrap.min.css HTTP/1.1" 200 121205
+[13/Mar/2018 13:32:32]"GET /static/blogdetails/js/jquery.nicescroll.min.js HTTP/1.1" 200 57896
+[13/Mar/2018 13:32:32]"GET /static/blogdetails/js/assets/bootstrap.min.js HTTP/1.1" 200 37051
+[13/Mar/2018 13:32:33]"GET /static/Blog/img/logo/yellowmoon_logo_01.svg HTTP/1.1" 200 1481
+[13/Mar/2018 13:32:33]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[13/Mar/2018 13:32:33]"GET /static/Blog/img/chevron_down_white.svg HTTP/1.1" 200 301
+[13/Mar/2018 13:32:33]"GET /media/upload/35923497445_vYOueIb.jpg HTTP/1.1" 200 62541
+[13/Mar/2018 13:32:33]"GET /static/Blog/img/logo/yellowmoon_logo_02.jpg HTTP/1.1" 200 67353
+[13/Mar/2018 13:32:34]"GET /media/upload/35923497445_hyfsRXB.jpg HTTP/1.1" 200 106539
+[13/Mar/2018 13:32:34]"GET /static/Blog/img/chevron_down_black.svg HTTP/1.1" 200 299
+[13/Mar/2018 13:32:34]"GET /media/upload/35923497445.jpg HTTP/1.1" 200 139301
+[13/Mar/2018 13:32:38]"GET /static/Blog/img/about_bg.jpg HTTP/1.1" 200 112509
+[13/Mar/2018 13:32:38]"GET /media/upload/35923497445_WFuAffh.jpg HTTP/1.1" 200 304765
+[13/Mar/2018 13:32:43]"GET /static/Blog/img/header_bg.jpg HTTP/1.1" 200 650270
+[13/Mar/2018 13:33:03]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 3710447
+[13/Mar/2018 13:33:29]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 5551516
+[13/Mar/2018 13:33:39]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 4922231
+[13/Mar/2018 13:33:41]"GET /media/upload/35923497445_LRj3bhe.jpg HTTP/1.1" 200 1691374
+[14/Mar/2018 05:49:54]"GET http://114.215.207.183:83/index.php HTTP/1.1" 404 1705
+[14/Mar/2018 10:56:47]"GET / HTTP/1.1" 200 14675
+[14/Mar/2018 10:56:48]"GET /static/Blog/css/bootstrap.min.css HTTP/1.1" 304 0
+[14/Mar/2018 10:56:48]"GET /static/Blog/css/style.css HTTP/1.1" 304 0
+[14/Mar/2018 10:56:48]"GET /static/blogdetails/css/main.css HTTP/1.1" 304 0
+[14/Mar/2018 10:56:48]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 304 0
+[14/Mar/2018 10:56:48]"GET /static/Blog/img/logo/yellowmoon_logo_02.jpg HTTP/1.1" 304 0
+[14/Mar/2018 10:56:48]"GET /media/upload/35923497445.jpg HTTP/1.1" 304 0
+[14/Mar/2018 10:56:48]"GET /media/upload/35923497445_vYOueIb.jpg HTTP/1.1" 304 0
+[14/Mar/2018 10:56:48]"GET /media/upload/35923497445_hyfsRXB.jpg HTTP/1.1" 304 0
+[14/Mar/2018 10:56:48]"GET /media/upload/35923497445_LRj3bhe.jpg HTTP/1.1" 304 0
+[14/Mar/2018 10:56:48]"GET /media/upload/35923497445_WFuAffh.jpg HTTP/1.1" 304 0
+[14/Mar/2018 10:56:59]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 3710447
+[14/Mar/2018 10:57:03]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 4922231
+[14/Mar/2018 10:57:11]"GET /blog/ HTTP/1.1" 200 6635
+[14/Mar/2018 10:57:11]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 4980736
+[14/Mar/2018 10:57:11]"GET /media/upload/6495047985980.jpg HTTP/1.1" 304 0
+[14/Mar/2018 10:57:11]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[14/Mar/2018 10:57:12]"GET /favicon.ico HTTP/1.1" 404 3100
+[14/Mar/2018 10:57:14]"GET /atlas/ HTTP/1.1" 200 15466
+[14/Mar/2018 10:57:19]"GET / HTTP/1.1" 200 14675
+[14/Mar/2018 10:57:19]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 3899392
+[14/Mar/2018 10:57:30]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 5551516
+[15/Mar/2018 10:13:07]"GET /favicon.ico HTTP/1.1" 404 3100
+[15/Mar/2018 10:23:29]"GET / HTTP/1.1" 200 14675
+[15/Mar/2018 10:23:29]"GET /static/Blog/css/style.css HTTP/1.1" 304 0
+[15/Mar/2018 10:23:29]"GET /static/Blog/css/bootstrap.min.css HTTP/1.1" 304 0
+[15/Mar/2018 10:23:29]"GET /static/blogdetails/css/main.css HTTP/1.1" 304 0
+[15/Mar/2018 10:23:29]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 304 0
+[15/Mar/2018 10:23:29]"GET /static/Blog/img/logo/yellowmoon_logo_02.jpg HTTP/1.1" 304 0
+[15/Mar/2018 10:23:29]"GET /media/upload/35923497445.jpg HTTP/1.1" 304 0
+[15/Mar/2018 10:23:29]"GET /media/upload/35923497445_vYOueIb.jpg HTTP/1.1" 304 0
+[15/Mar/2018 10:23:29]"GET /media/upload/35923497445_hyfsRXB.jpg HTTP/1.1" 304 0
+[15/Mar/2018 10:23:29]"GET /media/upload/35923497445_WFuAffh.jpg HTTP/1.1" 304 0
+[15/Mar/2018 10:23:29]"GET /media/upload/35923497445_LRj3bhe.jpg HTTP/1.1" 304 0
+[15/Mar/2018 10:23:32]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 827392
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 453, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python3.4/socket.py", line 394, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[15/Mar/2018 10:23:32]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 453, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python3.4/socket.py", line 394, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 95, in handle_error
+    super(ServerHandler, self).handle_error()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 182, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.4/wsgiref/simple_server.py", line 35, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+[15/Mar/2018 10:23:32]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 827392
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 453, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python3.4/socket.py", line 394, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[15/Mar/2018 10:23:32]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 453, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python3.4/socket.py", line 394, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 95, in handle_error
+    super(ServerHandler, self).handle_error()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 182, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.4/wsgiref/simple_server.py", line 35, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+[15/Mar/2018 10:23:32]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 933888
+[15/Mar/2018 10:23:39]"GET / HTTP/1.1" 200 14675
+[15/Mar/2018 10:23:45]"GET /blog/ HTTP/1.1" 200 6635
+[15/Mar/2018 10:23:46]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 2424832
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 453, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python3.4/socket.py", line 394, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[15/Mar/2018 10:23:46]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 453, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python3.4/socket.py", line 394, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 95, in handle_error
+    super(ServerHandler, self).handle_error()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 182, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.4/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.4/wsgiref/simple_server.py", line 35, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+[15/Mar/2018 10:23:47]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 2097152
+[15/Mar/2018 10:23:47]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 2146304
+[15/Mar/2018 10:23:47]"GET /media/upload/6495047985980.jpg HTTP/1.1" 304 0
+[15/Mar/2018 10:23:47]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[15/Mar/2018 10:23:47]"GET /favicon.ico HTTP/1.1" 404 3100
+[15/Mar/2018 10:23:48]"GET /written/ HTTP/1.1" 200 5810
+[15/Mar/2018 10:23:50]"GET /blog/ HTTP/1.1" 200 6635
+[15/Mar/2018 10:23:50]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[15/Mar/2018 10:23:51]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[15/Mar/2018 19:49:30]"GET / HTTP/1.1" 200 14675
+[16/Mar/2018 12:27:37]"GET http://112.124.116.170:83/index.php HTTP/1.1" 404 1705
+[16/Mar/2018 22:30:53]code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[16/Mar/2018 22:30:53]"  /*à     Cookie: mstshash=Administr" 400 -
+[17/Mar/2018 01:34:53]"GET / HTTP/1.1" 200 14675
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.4/socket.py", line 374, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[17/Mar/2018 07:09:52]"GET / HTTP/1.1" 200 14675
+[17/Mar/2018 07:10:01]"GET /favicon.ico HTTP/1.1" 404 3096
+[17/Mar/2018 08:06:25]"GET / HTTP/1.1" 200 14675
+[17/Mar/2018 08:06:25]"GET /static/Blog/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/Mar/2018 08:06:25]"GET /static/Blog/css/style.css HTTP/1.1" 304 0
+[17/Mar/2018 08:06:25]"GET /static/blogdetails/css/main.css HTTP/1.1" 304 0
+[17/Mar/2018 08:06:25]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 304 0
+[17/Mar/2018 08:06:25]"GET /static/Blog/img/logo/yellowmoon_logo_02.jpg HTTP/1.1" 304 0
+[17/Mar/2018 08:06:25]"GET /media/upload/35923497445.jpg HTTP/1.1" 304 0
+[17/Mar/2018 08:06:25]"GET /media/upload/35923497445_vYOueIb.jpg HTTP/1.1" 304 0
+[17/Mar/2018 08:06:25]"GET /media/upload/35923497445_hyfsRXB.jpg HTTP/1.1" 304 0
+[17/Mar/2018 08:06:25]"GET /media/upload/35923497445_LRj3bhe.jpg HTTP/1.1" 304 0
+[17/Mar/2018 08:06:25]"GET /media/upload/35923497445_WFuAffh.jpg HTTP/1.1" 304 0
+[17/Mar/2018 08:06:35]"GET /blog/ HTTP/1.1" 200 6635
+[17/Mar/2018 08:06:35]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 3407872
+[17/Mar/2018 08:06:35]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 2179072
+[17/Mar/2018 08:06:35]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 1998848
+[17/Mar/2018 08:06:35]"GET /media/upload/6495047985980.jpg HTTP/1.1" 304 0
+[17/Mar/2018 08:06:35]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[17/Mar/2018 08:06:36]"GET /favicon.ico HTTP/1.1" 404 3100
+[17/Mar/2018 08:06:40]"GET /blogdetails/2/ HTTP/1.1" 200 8381
+[17/Mar/2018 08:06:41]"GET /blogdetails/2/images/footer-logo.png HTTP/1.1" 404 3175
+[17/Mar/2018 08:06:48]"GET /written/ HTTP/1.1" 200 5810
+[17/Mar/2018 08:06:56]"GET /atlas/ HTTP/1.1" 200 15466
+[17/Mar/2018 08:07:00]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 819200
+[17/Mar/2018 08:07:00]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 819200
+[17/Mar/2018 08:07:00]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 1581056
+[17/Mar/2018 08:07:15]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 4922231
+[17/Mar/2018 08:07:15]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 5551516
+[17/Mar/2018 08:07:18]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 3710447
+[17/Mar/2018 08:07:34]"GET /blog/ HTTP/1.1" 200 6635
+[17/Mar/2018 08:07:34]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[17/Mar/2018 08:07:40]"GET /atlas/ HTTP/1.1" 200 15466
+[17/Mar/2018 08:07:58]"GET / HTTP/1.1" 200 14675
+[18/Mar/2018 04:47:46]"GET / HTTP/1.1" 200 14675
+[19/Mar/2018 01:58:29]"GET /elastix_warning_authentication.php HTTP/1.1" 404 3165
+[19/Mar/2018 01:58:31]code 400, message Bad request version ('Q\x8d\x01ü¸Ò¾"õ(\x9d~0«\x0e\x00\x00<À,À')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+[19/Mar/2018 02:04:12]"GET /recordings//theme/main.css HTTP/1.1" 404 3141
+[19/Mar/2018 02:04:14]code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+[19/Mar/2018 08:07:43]"GET / HTTP/1.1" 200 14675
+[20/Mar/2018 00:35:50]"GET / HTTP/1.1" 200 14675
+[20/Mar/2018 00:35:50]"GET / HTTP/1.1" 200 14675
+[20/Mar/2018 00:38:23]"GET /sftp_config.json HTTP/1.1" 404 3111
+[20/Mar/2018 00:38:24]"GET /sftp_config.json HTTP/1.1" 404 3111
+[20/Mar/2018 00:38:25]"GET /sftp_config.json HTTP/1.1" 404 3111
+[20/Mar/2018 00:38:25]"GET /sftp_config.json HTTP/1.1" 404 3111
+[20/Mar/2018 00:38:26]"GET /sftp_config.json HTTP/1.1" 404 3111
+[20/Mar/2018 15:41:00]code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[20/Mar/2018 15:41:00]"  /*à     Cookie: mstshash=Administr" 400 -
+[20/Mar/2018 17:27:29]code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie:')
+[02/Apr/2018 03:48:03]"GET / HTTP/1.1" 200 14675
+[02/Apr/2018 03:48:03]"GET /static/Blog/css/bootstrap.min.css HTTP/1.1" 304 0
+[02/Apr/2018 03:48:03]"GET /static/blogdetails/css/main.css HTTP/1.1" 304 0
+[02/Apr/2018 03:48:03]"GET /static/Blog/css/style.css HTTP/1.1" 304 0
+[02/Apr/2018 03:48:03]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 304 0
+[02/Apr/2018 03:48:03]"GET /static/Blog/img/logo/yellowmoon_logo_02.jpg HTTP/1.1" 304 0
+[02/Apr/2018 03:48:04]"GET /media/upload/35923497445.jpg HTTP/1.1" 304 0
+[02/Apr/2018 03:48:04]"GET /media/upload/35923497445_vYOueIb.jpg HTTP/1.1" 304 0
+[02/Apr/2018 03:48:04]"GET /media/upload/35923497445_hyfsRXB.jpg HTTP/1.1" 304 0
+[02/Apr/2018 03:48:05]"GET /media/upload/35923497445_WFuAffh.jpg HTTP/1.1" 304 0
+[02/Apr/2018 03:48:05]"GET /media/upload/35923497445_LRj3bhe.jpg HTTP/1.1" 304 0
+[02/Apr/2018 03:48:17]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 5551516
+[02/Apr/2018 03:48:21]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 3710447
+[02/Apr/2018 03:48:22]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 4922231
+[02/Apr/2018 03:48:23]"GET /favicon.ico HTTP/1.1" 404 3100
+[02/Apr/2018 03:48:49]"GET / HTTP/1.1" 200 14675
+[02/Apr/2018 03:48:49]"GET /static/Blog/css/yellowmoon-font.css HTTP/1.1" 200 1388
+[02/Apr/2018 03:48:49]"GET /static/Blog/js/libs/smooth-scroll.min.js HTTP/1.1" 200 5278
+[02/Apr/2018 03:48:49]"GET /static/Blog/js/libs/modernizr.mq.js HTTP/1.1" 200 2633
+[02/Apr/2018 03:48:49]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[02/Apr/2018 03:48:49]"GET /static/blogdetails/js/assets/plugins.js HTTP/1.1" 200 784
+[02/Apr/2018 03:48:49]"GET /static/Blog/css/style.css HTTP/1.1" 200 15547
+[02/Apr/2018 03:48:49]"GET /static/Blog/css/bootstrap.min.css HTTP/1.1" 200 121200
+[02/Apr/2018 03:48:49]"GET /static/blogdetails/js/main.js HTTP/1.1" 200 434
+[02/Apr/2018 03:48:49]"GET /static/Blog/js/custom.js HTTP/1.1" 200 3434
+[02/Apr/2018 03:48:49]"GET /static/blogdetails/css/assets/normalize.css HTTP/1.1" 200 8132
+[02/Apr/2018 03:48:49]"GET /static/blogdetails/css/font-awesome.min.css HTTP/1.1" 200 29070
+[02/Apr/2018 03:48:49]"GET /static/blogdetails/css/assets/bootstrap.min.css HTTP/1.1" 200 121205
+[02/Apr/2018 03:48:49]"GET /static/blogdetails/js/assets/modernizr-2.8.3.min.js HTTP/1.1" 200 15518
+[02/Apr/2018 03:48:49]"GET /static/blogdetails/css/main.css HTTP/1.1" 200 12636
+[02/Apr/2018 03:48:49]"GET /static/blogdetails/js/jquery.nicescroll.min.js HTTP/1.1" 200 57896
+[02/Apr/2018 03:48:52]"GET /static/blogdetails/css/responsive.css HTTP/1.1" 200 2697
+[02/Apr/2018 03:48:52]"GET /static/blogdetails/js/assets/bootstrap.min.js HTTP/1.1" 200 37051
+[02/Apr/2018 03:48:52]"GET /static/Blog/img/chevron_down_white.svg HTTP/1.1" 200 301
+[02/Apr/2018 03:48:52]"GET /media/upload/35923497445.jpg HTTP/1.1" 200 139301
+[02/Apr/2018 03:48:52]"GET /media/upload/35923497445_vYOueIb.jpg HTTP/1.1" 200 62541
+[02/Apr/2018 03:48:52]"GET /static/Blog/img/logo/yellowmoon_logo_02.jpg HTTP/1.1" 200 67353
+[02/Apr/2018 03:48:52]"GET /static/Blog/img/logo/yellowmoon_logo_01.svg HTTP/1.1" 200 1481
+[02/Apr/2018 03:48:52]"GET /static/Blog/fonts/yellowmoon.ttf?j6ou47 HTTP/1.1" 200 3648
+[02/Apr/2018 03:48:52]"GET /static/Blog/img/about_bg.jpg HTTP/1.1" 200 112509
+[02/Apr/2018 03:48:52]"GET /media/upload/35923497445_hyfsRXB.jpg HTTP/1.1" 200 106539
+[02/Apr/2018 03:48:52]"GET /static/Blog/img/chevron_down_black.svg HTTP/1.1" 200 299
+[02/Apr/2018 03:48:52]"GET /media/upload/35923497445_WFuAffh.jpg HTTP/1.1" 200 304765
+[02/Apr/2018 03:48:52]"GET /media/upload/35923497445_LRj3bhe.jpg HTTP/1.1" 200 1691374
+[02/Apr/2018 03:48:53]"GET /static/Blog/img/header_bg.jpg HTTP/1.1" 200 650270
+[02/Apr/2018 03:48:53]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 3710447
+[02/Apr/2018 03:48:53]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 4922231
+[02/Apr/2018 03:48:54]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 5551516
+[02/Apr/2018 03:48:57]"GET / HTTP/1.1" 200 14675
+[02/Apr/2018 03:48:57]"GET /static/Blog/css/bootstrap.min.css HTTP/1.1" 200 73728
+[03/Apr/2018 18:09:08]"GET http://112.124.116.170:83/index.php HTTP/1.1" 404 1705
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.4/socket.py", line 374, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[04/Apr/2018 01:11:56]"GET / HTTP/1.0" 200 14675
+[04/Apr/2018 01:11:57]"GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0" 404 3136
+[04/Apr/2018 01:11:57]code 400, message Bad request syntax ('\x05\x04\x00\x01\x02\x80\x05\x01\x00\x03')
+[04/Apr/2018 01:11:57]"  " 400 -
+[04/Apr/2018 01:12:03]code 400, message Bad request syntax ('\x04\x01\x00\x16\x7f\x00\x00\x01root\x00')
+[04/Apr/2018 01:12:03]"   root " 400 -
+[04/Apr/2018 01:12:03]code 400, message Bad request syntax ('\x124\x00\x01')
+[04/Apr/2018 01:12:03]"4 " 400 -
+[04/Apr/2018 01:12:04]"OPTIONS / HTTP/1.0" 200 14675
+[04/Apr/2018 01:12:05]code 400, message Bad request version ('RTSP/1.0')
+[04/Apr/2018 01:12:05]"OPTIONS / RTSP/1.0" 400 -
+[04/Apr/2018 01:12:11]code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[04/Apr/2018 01:12:11]"  (rþ          |                    " 400 -
+[04/Apr/2018 01:12:16]code 400, message Bad HTTP/0.9 request type ('\x00')
+[04/Apr/2018 01:12:16]"          versionbind   " 400 -
+[04/Apr/2018 01:12:21]code 400, message Bad HTTP/0.9 request type ('\x00')
+[04/Apr/2018 01:12:21]"            " 400 -
+[04/Apr/2018 01:12:21]code 400, message Bad request syntax ('HELP')
+[04/Apr/2018 01:12:21]"HELP" 400 -
+[04/Apr/2018 01:12:22]code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+[04/Apr/2018 01:12:27]code 400, message Bad request syntax ('\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00')
+[04/Apr/2018 01:12:27]"   ¤ÿSMBr    @              @     PC NETWORK PROGRAM 1.0 MICROSOFT NETWORKS 1.03 MICROSOFT NETWORKS 3.0 LANMAN1.0 LM1.2X002 Samba NT LANMAN 1.0 NT LM 0.12 " 400 -
+[04/Apr/2018 01:12:33]code 400, message Bad HTTP/0.9 request type ('l\x00')
+[04/Apr/2018 01:12:33]"l          " 400 -
+[04/Apr/2018 18:08:34]"GET /recordings/ HTTP/1.1" 404 3096
+[04/Apr/2018 18:08:34]code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Apr/2018 01:33:39]"GET http://112.124.127.162:83/index.php HTTP/1.1" 404 1705
+[08/Apr/2018 16:10:27]"GET / HTTP/1.1" 200 14675
+[08/Apr/2018 16:10:31]"GET /favicon.ico HTTP/1.1" 404 3096
+[09/Apr/2018 01:32:11]code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie:')
+[09/Apr/2018 01:32:11]"  *%à     Cookie: mstshash=Test" 400 -
+[09/Apr/2018 17:14:55]"GET / HTTP/1.1" 200 14675
+[09/Apr/2018 17:14:55]"GET /static/Blog/css/yellowmoon-font.css HTTP/1.1" 200 1388
+[09/Apr/2018 17:14:55]"GET /static/Blog/css/style.css HTTP/1.1" 200 15547
+[09/Apr/2018 17:14:55]"GET /static/blogdetails/css/assets/normalize.css HTTP/1.1" 200 8132
+[09/Apr/2018 17:14:55]"GET /static/blogdetails/css/font-awesome.min.css HTTP/1.1" 200 29070
+[09/Apr/2018 17:14:55]"GET /static/Blog/css/bootstrap.min.css HTTP/1.1" 200 121200
+[09/Apr/2018 17:14:55]"GET /static/blogdetails/css/assets/bootstrap.min.css HTTP/1.1" 200 121205
+[09/Apr/2018 17:14:55]"GET /static/blogdetails/css/main.css HTTP/1.1" 200 12636
+[09/Apr/2018 17:14:55]"GET /static/blogdetails/css/responsive.css HTTP/1.1" 200 2697
+[09/Apr/2018 17:14:55]"GET /static/Blog/js/libs/smooth-scroll.min.js HTTP/1.1" 200 5278
+[09/Apr/2018 17:14:55]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[09/Apr/2018 17:14:55]"GET /static/Blog/js/libs/modernizr.mq.js HTTP/1.1" 200 2633
+[09/Apr/2018 17:14:55]"GET /static/Blog/js/custom.js HTTP/1.1" 200 3434
+[09/Apr/2018 17:14:55]"GET /static/blogdetails/js/assets/modernizr-2.8.3.min.js HTTP/1.1" 200 15518
+[09/Apr/2018 17:14:55]"GET /static/blogdetails/js/assets/plugins.js HTTP/1.1" 200 784
+[09/Apr/2018 17:14:55]"GET /static/blogdetails/js/assets/bootstrap.min.js HTTP/1.1" 200 37051
+[09/Apr/2018 17:14:55]"GET /static/blogdetails/js/main.js HTTP/1.1" 200 434
+[09/Apr/2018 17:14:55]"GET /static/blogdetails/js/jquery.nicescroll.min.js HTTP/1.1" 200 57896
+[09/Apr/2018 17:14:55]"GET /static/Blog/img/logo/yellowmoon_logo_01.svg HTTP/1.1" 200 1481
+[09/Apr/2018 17:14:55]"GET /static/Blog/img/chevron_down_white.svg HTTP/1.1" 200 301
+[09/Apr/2018 17:14:55]"GET /static/Blog/img/logo/yellowmoon_logo_02.jpg HTTP/1.1" 200 67353
+[09/Apr/2018 17:14:55]"GET /media/upload/35923497445_vYOueIb.jpg HTTP/1.1" 200 62541
+[09/Apr/2018 17:14:55]"GET /media/upload/35923497445_hyfsRXB.jpg HTTP/1.1" 200 106539
+[09/Apr/2018 17:14:55]"GET /media/upload/35923497445.jpg HTTP/1.1" 200 139301
+[09/Apr/2018 17:14:55]"GET /media/upload/35923497445_WFuAffh.jpg HTTP/1.1" 200 304765
+[09/Apr/2018 17:14:55]"GET /static/Blog/img/chevron_down_black.svg HTTP/1.1" 200 299
+[09/Apr/2018 17:14:56]"GET /static/Blog/img/about_bg.jpg HTTP/1.1" 200 112509
+[09/Apr/2018 17:14:56]"GET /static/Blog/img/header_bg.jpg HTTP/1.1" 200 650270
+[09/Apr/2018 17:14:56]"GET /media/upload/35923497445_LRj3bhe.jpg HTTP/1.1" 200 1691374
+[09/Apr/2018 17:14:57]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 3710447
+[09/Apr/2018 17:14:57]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 5551516
+[09/Apr/2018 17:14:57]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 4922231
+[09/Apr/2018 17:14:58]"GET /favicon.ico HTTP/1.1" 404 3100
+[10/Apr/2018 16:08:15]"GET http://112.124.127.162:83/index.php HTTP/1.1" 404 1705
+[12/Apr/2018 22:49:41]"GET http://112.124.116.170:83/index.php HTTP/1.1" 404 1705
+[13/Apr/2018 11:59:31]code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[13/Apr/2018 11:59:31]"  /*à     Cookie: mstshash=Administr" 400 -
+[14/Apr/2018 08:15:33]code 400, message Bad HTTP/0.9 request type ('t3')
+[14/Apr/2018 08:15:33]"t3 12.2.1" 400 -
+[14/Apr/2018 09:36:32]"GET / HTTP/1.1" 200 14675
+[14/Apr/2018 09:36:33]"GET /static/Blog/css/yellowmoon-font.css HTTP/1.1" 200 1388
+[14/Apr/2018 09:36:33]"GET /static/Blog/css/style.css HTTP/1.1" 200 15547
+[14/Apr/2018 09:36:33]"GET /static/Blog/css/bootstrap.min.css HTTP/1.1" 200 121200
+[14/Apr/2018 09:36:33]"GET /static/Blog/js/libs/smooth-scroll.min.js HTTP/1.1" 200 5278
+[14/Apr/2018 09:36:33]"GET /static/Blog/js/libs/modernizr.mq.js HTTP/1.1" 200 2633
+[14/Apr/2018 09:36:33]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[14/Apr/2018 09:36:33]"GET /static/Blog/js/custom.js HTTP/1.1" 200 3434
+[14/Apr/2018 09:36:33]"GET /static/blogdetails/css/assets/normalize.css HTTP/1.1" 200 8132
+[14/Apr/2018 09:36:33]"GET /static/blogdetails/css/font-awesome.min.css HTTP/1.1" 200 29070
+[14/Apr/2018 09:36:33]"GET /static/blogdetails/css/main.css HTTP/1.1" 200 12636
+[14/Apr/2018 09:36:33]"GET /static/blogdetails/css/assets/bootstrap.min.css HTTP/1.1" 200 121205
+[14/Apr/2018 09:36:33]"GET /static/blogdetails/css/responsive.css HTTP/1.1" 200 2697
+[14/Apr/2018 09:36:33]"GET /static/blogdetails/js/assets/modernizr-2.8.3.min.js HTTP/1.1" 200 15518
+[14/Apr/2018 09:36:33]"GET /static/blogdetails/js/assets/plugins.js HTTP/1.1" 200 784
+[14/Apr/2018 09:36:33]"GET /static/blogdetails/js/assets/bootstrap.min.js HTTP/1.1" 200 37051
+[14/Apr/2018 09:36:33]"GET /static/blogdetails/js/main.js HTTP/1.1" 200 434
+[14/Apr/2018 09:36:33]"GET /static/blogdetails/js/jquery.nicescroll.min.js HTTP/1.1" 200 57896
+[14/Apr/2018 09:36:33]"GET /static/Blog/img/logo/yellowmoon_logo_01.svg HTTP/1.1" 200 1481
+[14/Apr/2018 09:36:33]"GET /static/Blog/img/chevron_down_white.svg HTTP/1.1" 200 301
+[14/Apr/2018 09:36:33]"GET /media/upload/35923497445_vYOueIb.jpg HTTP/1.1" 200 62541
+[14/Apr/2018 09:36:33]"GET /static/Blog/img/logo/yellowmoon_logo_02.jpg HTTP/1.1" 200 67353
+[14/Apr/2018 09:36:33]"GET /media/upload/35923497445_hyfsRXB.jpg HTTP/1.1" 200 106539
+[14/Apr/2018 09:36:33]"GET /media/upload/35923497445.jpg HTTP/1.1" 200 139301
+[14/Apr/2018 09:36:33]"GET /static/Blog/img/chevron_down_black.svg HTTP/1.1" 200 299
+[14/Apr/2018 09:36:34]"GET /media/upload/35923497445_WFuAffh.jpg HTTP/1.1" 200 304765
+[14/Apr/2018 09:36:35]"GET /static/Blog/img/about_bg.jpg HTTP/1.1" 200 112509
+[14/Apr/2018 09:36:36]"GET /static/Blog/img/header_bg.jpg HTTP/1.1" 200 650270
+[14/Apr/2018 09:36:38]"GET /media/upload/35923497445_LRj3bhe.jpg HTTP/1.1" 200 1691374
+[14/Apr/2018 09:36:39]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 3710447
+[14/Apr/2018 09:36:40]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 4922231
+[14/Apr/2018 09:36:40]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 5551516
+[14/Apr/2018 09:36:44]"GET / HTTP/1.1" 200 14675
+[14/Apr/2018 09:36:44]"GET /static/Blog/css/yellowmoon-font.css HTTP/1.1" 200 1388
+[14/Apr/2018 09:36:44]"GET /static/Blog/css/style.css HTTP/1.1" 200 15547
+[14/Apr/2018 09:36:44]"GET /static/Blog/js/libs/smooth-scroll.min.js HTTP/1.1" 200 5278
+[14/Apr/2018 09:36:44]"GET /static/Blog/js/libs/modernizr.mq.js HTTP/1.1" 200 2633
+[14/Apr/2018 09:36:44]"GET /static/Blog/css/bootstrap.min.css HTTP/1.1" 200 121200
+[14/Apr/2018 09:36:44]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[14/Apr/2018 09:36:44]"GET /static/Blog/js/custom.js HTTP/1.1" 200 3434
+[14/Apr/2018 09:36:44]"GET /static/blogdetails/css/assets/normalize.css HTTP/1.1" 200 8132
+[14/Apr/2018 09:36:44]"GET /static/blogdetails/css/font-awesome.min.css HTTP/1.1" 200 29070
+[14/Apr/2018 09:36:44]"GET /static/blogdetails/css/main.css HTTP/1.1" 200 12636
+[14/Apr/2018 09:36:44]"GET /static/blogdetails/css/responsive.css HTTP/1.1" 200 2697
+[14/Apr/2018 09:36:44]"GET /static/blogdetails/js/assets/modernizr-2.8.3.min.js HTTP/1.1" 200 15518
+[14/Apr/2018 09:36:44]"GET /static/blogdetails/css/assets/bootstrap.min.css HTTP/1.1" 200 121205
+[14/Apr/2018 09:36:44]"GET /static/blogdetails/js/assets/plugins.js HTTP/1.1" 200 784
+[14/Apr/2018 09:36:45]"GET /static/blogdetails/js/main.js HTTP/1.1" 200 434
+[14/Apr/2018 09:36:45]"GET /static/blogdetails/js/assets/bootstrap.min.js HTTP/1.1" 200 37051
+[14/Apr/2018 09:36:45]"GET /static/blogdetails/js/jquery.nicescroll.min.js HTTP/1.1" 200 57896
+[14/Apr/2018 09:36:45]"GET /media/upload/35923497445_vYOueIb.jpg HTTP/1.1" 200 62541
+[14/Apr/2018 09:36:45]"GET /static/Blog/img/logo/yellowmoon_logo_01.svg HTTP/1.1" 200 1481
+[14/Apr/2018 09:36:45]"GET /static/Blog/img/chevron_down_white.svg HTTP/1.1" 200 301
+[14/Apr/2018 09:36:45]"GET /media/upload/35923497445_hyfsRXB.jpg HTTP/1.1" 200 106539
+[14/Apr/2018 09:36:45]"GET /media/upload/35923497445.jpg HTTP/1.1" 200 139301
+[14/Apr/2018 09:36:45]"GET /static/Blog/img/logo/yellowmoon_logo_02.jpg HTTP/1.1" 200 67353
+[14/Apr/2018 09:36:45]"GET /static/Blog/img/chevron_down_black.svg HTTP/1.1" 200 299
+[14/Apr/2018 09:36:45]"GET /media/upload/35923497445_WFuAffh.jpg HTTP/1.1" 200 304765
+[14/Apr/2018 09:36:45]"GET /media/upload/35923497445_LRj3bhe.jpg HTTP/1.1" 200 1691374
+[14/Apr/2018 09:36:46]"GET /static/Blog/img/about_bg.jpg HTTP/1.1" 200 112509
+[14/Apr/2018 09:36:46]"GET /static/Blog/img/header_bg.jpg HTTP/1.1" 200 650270
+[14/Apr/2018 09:36:47]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 4922231
+[14/Apr/2018 09:36:47]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 3710447
+[14/Apr/2018 09:36:48]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 5551516
+[14/Apr/2018 20:44:49]"GET / HTTP/1.1" 200 14675
+[14/Apr/2018 23:28:33]code 400, message Bad HTTP/0.9 request type ('t3')
+[14/Apr/2018 23:28:33]"t3 12.2.1" 400 -
+[15/Apr/2018 01:59:22]code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[15/Apr/2018 01:59:22]"  /*à     Cookie: mstshash=Administr" 400 -
+[15/Apr/2018 05:16:46]"GET http://112.124.127.162:83/index.php HTTP/1.1" 404 1705
+[16/Apr/2018 02:40:19]"GET /manager/html HTTP/1.1" 404 3099
+[16/Apr/2018 03:30:42]"GET / HTTP/1.1" 200 14675
+[16/Apr/2018 03:30:42]"GET /static/Blog/css/yellowmoon-font.css HTTP/1.1" 200 1388
+[16/Apr/2018 03:30:42]"GET /static/Blog/js/libs/modernizr.mq.js HTTP/1.1" 200 2633
+[16/Apr/2018 03:30:42]"GET /static/Blog/js/libs/smooth-scroll.min.js HTTP/1.1" 200 5278
+[16/Apr/2018 03:30:42]"GET /static/Blog/css/style.css HTTP/1.1" 200 15547
+[16/Apr/2018 03:30:42]"GET /static/Blog/js/custom.js HTTP/1.1" 200 3434
+[16/Apr/2018 03:30:42]"GET /static/Blog/css/bootstrap.min.css HTTP/1.1" 200 121200
+[16/Apr/2018 03:30:42]"GET /static/Blog/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[16/Apr/2018 03:30:42]"GET /static/blogdetails/css/assets/normalize.css HTTP/1.1" 200 8132
+[16/Apr/2018 03:30:43]"GET /static/blogdetails/css/font-awesome.min.css HTTP/1.1" 200 29070
+[16/Apr/2018 03:30:43]"GET /static/blogdetails/css/main.css HTTP/1.1" 200 12636
+[16/Apr/2018 03:30:43]"GET /static/blogdetails/css/responsive.css HTTP/1.1" 200 2697
+[16/Apr/2018 03:30:43]"GET /static/blogdetails/css/assets/bootstrap.min.css HTTP/1.1" 200 121205
+[16/Apr/2018 03:30:43]"GET /static/blogdetails/js/assets/modernizr-2.8.3.min.js HTTP/1.1" 200 15518
+[16/Apr/2018 03:30:43]"GET /static/blogdetails/js/assets/plugins.js HTTP/1.1" 200 784
+[16/Apr/2018 03:30:43]"GET /static/blogdetails/js/assets/bootstrap.min.js HTTP/1.1" 200 37051
+[16/Apr/2018 03:30:43]"GET /static/blogdetails/js/main.js HTTP/1.1" 200 434
+[16/Apr/2018 03:30:43]"GET /static/blogdetails/js/jquery.nicescroll.min.js HTTP/1.1" 200 57896
+[16/Apr/2018 03:30:43]"GET /static/Blog/img/chevron_down_white.svg HTTP/1.1" 200 301
+[16/Apr/2018 03:30:43]"GET /static/Blog/img/logo/yellowmoon_logo_01.svg HTTP/1.1" 200 1481
+[16/Apr/2018 03:30:43]"GET /media/upload/35923497445_vYOueIb.jpg HTTP/1.1" 200 62541
+[16/Apr/2018 03:30:43]"GET /media/upload/35923497445.jpg HTTP/1.1" 200 139301
+[16/Apr/2018 03:30:43]"GET /media/upload/35923497445_hyfsRXB.jpg HTTP/1.1" 200 106539
+[16/Apr/2018 03:30:43]"GET /static/Blog/img/logo/yellowmoon_logo_02.jpg HTTP/1.1" 200 67353
+[16/Apr/2018 03:30:43]"GET /static/Blog/img/chevron_down_black.svg HTTP/1.1" 200 299
+[16/Apr/2018 03:30:43]"GET /media/upload/35923497445_WFuAffh.jpg HTTP/1.1" 200 304765
+[16/Apr/2018 03:30:43]"GET /static/Blog/fonts/yellowmoon.ttf?j6ou47 HTTP/1.1" 200 3648
+[16/Apr/2018 03:30:43]"GET /static/Blog/img/about_bg.jpg HTTP/1.1" 200 112509
+[16/Apr/2018 03:30:43]"GET /static/Blog/img/header_bg.jpg HTTP/1.1" 200 650270
+[16/Apr/2018 03:30:43]"GET /media/upload/35923497445_LRj3bhe.jpg HTTP/1.1" 200 1691374
+[16/Apr/2018 03:30:44]"GET /media/upload/35923497445_xv7S0ED.jpg HTTP/1.1" 200 4922231
+[16/Apr/2018 03:30:44]"GET /media/upload/35923497445_r08ZPny.jpg HTTP/1.1" 200 3710447
+[16/Apr/2018 03:30:45]"GET /media/upload/35923497445_adHDM4A.jpg HTTP/1.1" 200 5551516
+[16/Apr/2018 03:30:45]"GET /favicon.ico HTTP/1.1" 404 3100
+[16/Apr/2018 03:30:52]"GET /blog/ HTTP/1.1" 200 6635
+[16/Apr/2018 03:30:52]"GET /static/Blog/css/style.css HTTP/1.1" 200 15547
+[16/Apr/2018 03:30:52]"GET /static/blogdetails/css/assets/normalize.css HTTP/1.1" 200 8132
+[16/Apr/2018 03:30:52]"GET /static/blogdetails/css/font-awesome.min.css HTTP/1.1" 200 29070
+[16/Apr/2018 03:30:52]"GET /static/blogdetails/css/main.css HTTP/1.1" 200 12636
+[16/Apr/2018 03:30:52]"GET /static/blogdetails/css/assets/bootstrap.min.css HTTP/1.1" 200 121205
+[16/Apr/2018 03:30:52]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[16/Apr/2018 03:30:52]"GET /media/upload/6495047985980.jpg HTTP/1.1" 200 592900
+[16/Apr/2018 03:30:52]"GET /static/blogdetails/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 71896
+[16/Apr/2018 03:30:53]"GET /atlas/ HTTP/1.1" 200 15466
+[16/Apr/2018 03:30:53]"GET /static/Blog/css/style.css HTTP/1.1" 200 15547
+[16/Apr/2018 03:30:53]"GET /static/Blog/css/yellowmoon-font.css HTTP/1.1" 200 1388
+[16/Apr/2018 03:30:53]"GET /static/blogdetails/css/assets/normalize.css HTTP/1.1" 200 8132
+[16/Apr/2018 03:30:53]"GET /static/blogdetails/css/font-awesome.min.css HTTP/1.1" 200 29070
+[16/Apr/2018 03:30:53]"GET /static/Blog/css/bootstrap.min.css HTTP/1.1" 200 121200
+[16/Apr/2018 03:30:53]"GET /static/blogdetails/css/assets/bootstrap.min.css HTTP/1.1" 200 121205
+[16/Apr/2018 03:30:53]"GET /static/blogdetails/css/main.css HTTP/1.1" 200 12636
+[16/Apr/2018 03:30:53]"GET /static/atlas/Font-Awesome-4.7/css/font-awesome.min.css HTTP/1.1" 200 31000
+[16/Apr/2018 03:30:53]"GET /static/atlas/css/magnific-popup.css HTTP/1.1" 200 6951
+[16/Apr/2018 03:30:53]"GET /static/atlas/css/bootstrap.min.css HTTP/1.1" 200 105356
+[16/Apr/2018 03:30:53]"GET /static/atlas/css/templatemo-style.css HTTP/1.1" 200 17699
+[16/Apr/2018 03:30:53]"GET /static/atlas/css/hero-slider-style.css HTTP/1.1" 200 12651
+[16/Apr/2018 03:30:53]"GET /static/atlas/js/tether.min.js HTTP/1.1" 200 24632
+[16/Apr/2018 03:30:53]"GET /static/atlas/js/bootstrap.min.js HTTP/1.1" 200 44735
+[16/Apr/2018 03:30:53]"GET /static/atlas/js/hero-slider-main.js HTTP/1.1" 200 4824
+[16/Apr/2018 03:30:53]"GET /static/atlas/js/jquery-1.11.3.min.js HTTP/1.1" 200 95992
+[16/Apr/2018 03:30:53]"GET /static/atlas/js/jquery.magnific-popup.min.js HTTP/1.1" 200 20216
+[16/Apr/2018 03:30:57]"GET /blog/ HTTP/1.1" 200 6635
+[16/Apr/2018 03:30:57]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[16/Apr/2018 03:30:57]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[16/Apr/2018 03:31:02]"GET / HTTP/1.1" 200 14675
+[16/Apr/2018 03:31:02]"GET /static/Blog/css/bootstrap.min.css HTTP/1.1" 200 73728
+[16/Apr/2018 03:31:19]"GET /blog/ HTTP/1.1" 200 6635
+[16/Apr/2018 03:31:19]"GET /static/blogdetails/css/assets/normalize.css HTTP/1.1" 200 8132
+[16/Apr/2018 03:31:19]"GET /static/blogdetails/css/main.css HTTP/1.1" 200 12636
+[16/Apr/2018 03:31:19]"GET /static/blogdetails/css/font-awesome.min.css HTTP/1.1" 200 29070
+[16/Apr/2018 03:31:19]"GET /static/blogdetails/css/responsive.css HTTP/1.1" 200 2697
+[16/Apr/2018 03:31:19]"GET /static/blogdetails/css/assets/bootstrap.min.css HTTP/1.1" 200 121205
+[16/Apr/2018 03:31:19]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[16/Apr/2018 03:31:19]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[16/Apr/2018 03:31:24]"GET /atlas/ HTTP/1.1" 200 15466
+[16/Apr/2018 03:31:24]"GET /static/atlas/Font-Awesome-4.7/css/font-awesome.min.css HTTP/1.1" 200 31000
+[16/Apr/2018 03:31:25]"GET /static/atlas/css/templatemo-style.css HTTP/1.1" 200 17699
+[16/Apr/2018 03:31:25]"GET /static/atlas/css/magnific-popup.css HTTP/1.1" 200 6951
+[16/Apr/2018 03:31:25]"GET /static/atlas/css/hero-slider-style.css HTTP/1.1" 200 12651
+[16/Apr/2018 03:31:25]"GET /static/atlas/css/bootstrap.min.css HTTP/1.1" 200 73728
+[16/Apr/2018 03:35:37]"GET /blog/ HTTP/1.1" 200 6635
+[16/Apr/2018 03:35:37]"GET /static/Blog/css/yellowmoon-font.css HTTP/1.1" 200 1388
+[16/Apr/2018 03:35:37]"GET /static/blogdetails/css/assets/normalize.css HTTP/1.1" 200 8132
+[16/Apr/2018 03:35:37]"GET /static/blogdetails/css/font-awesome.min.css HTTP/1.1" 200 29070
+[16/Apr/2018 03:35:37]"GET /static/blogdetails/css/main.css HTTP/1.1" 200 12636
+[16/Apr/2018 03:35:37]"GET /static/blogdetails/css/responsive.css HTTP/1.1" 200 2697
+[16/Apr/2018 03:35:37]"GET /static/blogdetails/css/assets/bootstrap.min.css HTTP/1.1" 200 121205
+[16/Apr/2018 03:35:37]"GET /blog/images/footer-logo.png HTTP/1.1" 404 3148
+[16/Apr/2018 03:35:37]"GET /static/blogdetails/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 71896
+[16/Apr/2018 03:35:42]"GET /blogdetails/2/ HTTP/1.1" 200 8381
+[16/Apr/2018 03:35:42]"GET /static/blogdetails/css/main.css HTTP/1.1" 200 12636
+[16/Apr/2018 03:35:42]"GET /static/blogdetails/css/responsive.css HTTP/1.1" 200 2697
+[16/Apr/2018 03:35:42]"GET /blogdetails/2/images/footer-logo.png HTTP/1.1" 404 3175
+[16/Apr/2018 03:35:42]"GET /blogdetails/2/images/footer-logo.png HTTP/1.1" 404 3175
+[16/Apr/2018 03:35:46]"GET /atlas/ HTTP/1.1" 200 15466
+[16/Apr/2018 03:35:46]"GET /static/blogdetails/css/assets/normalize.css HTTP/1.1" 200 8132
+[16/Apr/2018 03:35:46]"GET /static/Blog/css/style.css HTTP/1.1" 200 15547
+[16/Apr/2018 03:35:46]"GET /static/blogdetails/css/font-awesome.min.css HTTP/1.1" 200 29070
+[16/Apr/2018 03:35:46]"GET /static/blogdetails/css/main.css HTTP/1.1" 200 12636
+[16/Apr/2018 03:35:46]"GET /static/blogdetails/css/responsive.css HTTP/1.1" 200 2697
+[16/Apr/2018 03:35:46]"GET /static/blogdetails/css/assets/bootstrap.min.css HTTP/1.1" 200 121205
+[16/Apr/2018 03:35:49]"GET / HTTP/1.1" 200 14675
+[16/Apr/2018 03:35:49]"GET /static/Blog/img/logo/yellowmoon_logo_01.svg HTTP/1.1" 200 1481
+[16/Apr/2018 03:35:49]"GET /static/Blog/img/chevron_down_white.svg HTTP/1.1" 200 301
+[16/Apr/2018 03:35:49]"GET /static/Blog/img/chevron_down_black.svg HTTP/1.1" 200 299
+[17/Apr/2018 11:39:29]"GET http://112.124.116.170:83/index.php HTTP/1.1" 404 1705
+[18/Apr/2018 21:27:16]"GET / HTTP/1.1" 200 14675
+[19/Apr/2018 03:04:56]code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[19/Apr/2018 03:04:56]"  /*à     Cookie: mstshash=Administr" 400 -
+[19/Apr/2018 18:08:21]"GET http://112.124.116.170:83/index.php HTTP/1.1" 404 1705
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.4/socket.py", line 374, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.4/socket.py", line 374, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[20/Apr/2018 10:06:35]code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ükÐ¢\x9a¨¬\x8c')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+[21/Apr/2018 01:34:49]code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[21/Apr/2018 01:34:49]"  /*à     Cookie: mstshash=Administr" 400 -
+[21/Apr/2018 10:47:39]code 400, message Bad request version ('¨JY\x83ºè\x00\x00ªÀ0À,À(À$À\x14À')
+You're accessing the development server over HTTPS, but it only supports HTTP.
+[21/Apr/2018 15:38:15]"GET / HTTP/1.1" 200 14675
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.4/socket.py", line 374, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.4/socket.py", line 374, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[21/Apr/2018 17:30:51]"GET / HTTP/1.1" 200 14675
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.4/socket.py", line 374, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.4/socket.py", line 374, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[21/Apr/2018 22:36:22]"GET / HTTP/1.1" 200 14675
+[21/Apr/2018 23:34:18]"GET / HTTP/1.1" 200 14675
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.4/socket.py", line 374, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.4/socket.py", line 374, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[22/Apr/2018 00:37:40]"GET http://112.124.116.170:83/index.php HTTP/1.1" 404 1705
+[22/Apr/2018 07:14:05]"GET / HTTP/1.1" 200 14675
+[22/Apr/2018 11:15:05]"GET / HTTP/1.1" 200 14675
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.4/socket.py", line 374, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.4/socket.py", line 374, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[22/Apr/2018 11:25:58]"GET / HTTP/1.1" 200 14675
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.4/socket.py", line 374, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.4/socket.py", line 374, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[22/Apr/2018 17:32:16]"GET / HTTP/1.1" 200 14675
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.4/socket.py", line 374, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.4/socket.py", line 374, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[22/Apr/2018 21:40:52]"GET / HTTP/1.1" 200 14675
+[22/Apr/2018 23:55:19]code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[22/Apr/2018 23:55:19]"  /*à     Cookie: mstshash=Administr" 400 -
+[23/Apr/2018 07:17:44]"GET / HTTP/1.1" 200 14675
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.4/socket.py", line 374, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/socketserver.py", line 617, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.4/socketserver.py", line 344, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python3.4/socketserver.py", line 673, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.4/dist-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.4/socket.py", line 374, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[23/Apr/2018 08:32:03]"GET / HTTP/1.1" 200 14675
+[23/Apr/2018 09:35:24]"GET / HTTP/1.1" 200 14675
