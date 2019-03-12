@@ -18,16 +18,16 @@ from django.contrib import admin
 from Blog import views as blog
 from django.conf.urls.static import static
 from django.conf import settings
-
+from django.urls import path
 urlpatterns = [
-                  url(r'^admin/', include(admin.site.urls)),
-                  url(r'^$', blog.index, name='index'),
-                  url(r'^blog/$', blog.blog, name='blog'),
-                  url(r'^blogdetails/(\d+)/$', blog.blogdetails, name="blogdetails"),
-                  url(r'^written/$', blog.written, name="written"),
-                  url(r'^create/$', blog.create, name="create"),
-                  url(r'^atlas/$', blog.atlas, name='atlas'),
-                  url(r'^uploadatlas/$', blog.uploadatlas, name='uploadatlas'),
-url(r'^uploadAtlasPage/$', blog.uploadAtlasPage, name='uploadAtlasPage'),
+                  path('admin/', admin.site.urls),
+                  path('$', blog.index, name='index'),
+                  path('blog/$', blog.blog, name='blog'),
+                  path('blogdetails/(\d+)/$', blog.blogdetails, name="blogdetails"),
+                  path('written/$', blog.written, name="written"),
+                  path('create/$', blog.create, name="create"),
+                  path('atlas/$', blog.atlas, name='atlas'),
+                  path('uploadatlas/$', blog.uploadatlas, name='uploadatlas'),
+                  path('uploadAtlasPage/$', blog.uploadAtlasPage, name='uploadAtlasPage'),
 
               ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
