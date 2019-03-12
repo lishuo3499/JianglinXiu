@@ -1,45 +1,89 @@
-{% extends 'base.html' %}
-
-{% block mainBody %}
-
-
-    <main class="main-wrapper-inner blog-wrapper" id="container">
-
-    <div class="container">
-        <a href="{% url 'written' %}" class="btn btn-default">发表</a>
-    <div class="wrapper-inner">
-
-    {% for article in blog %}
-    <article id="post" class="post">
-        <figure>
-            <a href="blog-details.html"><img src="/media/{{ article.img }}" alt="" class="img-responsive"/></a>
-        </figure>
-        <section class="inner-left">
-            <span class="date">{{ article.updatetime }}</span>
-            <p class="cat-pan">in <a href="#">Photography</a>, <a href="#">Creative</a></p>
-        </section>
-        <section class="inner-right">
-            <header>
-                <h3><a href="{% url 'blogdetails' article.id%}">{{ article.title }}</a></h3>
-            </header>
-            <p>{{ article.excerpt }}</p>
-        </section>
-
-        <div class="clearfix"></div>
-
-    </article>
-{% endfor %}
-
-</div>
-
-</div>
-
-</main>
-
-
-{% endblock %}
-
-
-{% block footer %}
-    {% include '_footer.html' %}
+{% extends 'base.html' %}
+
+
+
+{% block mainBody %}
+
+
+
+
+
+    <main class="main-wrapper-inner blog-wrapper" id="container">
+
+
+
+    <div class="container">
+
+        <a href="{% url 'written' %}" class="btn btn-default">发表</a>
+
+    <div class="wrapper-inner">
+
+
+
+    {% for article in blogs %}
+
+    <article id="post" class="post">
+
+        <figure>
+
+            <a href="blog-details.html"><img src="/media/{{ article.img }}" alt="" class="img-responsive"/></a>
+
+        </figure>
+
+        <section class="inner-left">
+
+            <span class="date">{{ article.updatetime }}</span>
+
+            <!-- <p class="cat-pan">in <a href="#">Photography</a>, <a href="#">Creative</a></p> -->
+
+        </section>
+
+        <section class="inner-right">
+
+            <header>
+
+                <h3><a href="blogdetails?id={{article.id}}">{{ article.title }}</a></h3>
+
+            </header>
+
+            <p>{{ article.excerpt }}</p>
+
+        </section>
+
+
+
+        <div class="clearfix"></div>
+
+
+
+    </article>
+
+{% endfor %}
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+</main>
+
+
+
+
+
+{% endblock %}
+
+
+
+
+
+{% block footer %}
+
+    {% include '_footer.html' %}
+
 {% endblock %}

@@ -21,13 +21,13 @@ from django.conf import settings
 from django.urls import path
 urlpatterns = [
                   path('admin/', admin.site.urls),
-                  path('$', blog.index, name='index'),
-                  path('blog/$', blog.blog, name='blog'),
-                  path('blogdetails/(\d+)/$', blog.blogdetails, name="blogdetails"),
-                  path('written/$', blog.written, name="written"),
-                  path('create/$', blog.create, name="create"),
-                  path('atlas/$', blog.atlas, name='atlas'),
-                  path('uploadatlas/$', blog.uploadatlas, name='uploadatlas'),
-                  path('uploadAtlasPage/$', blog.uploadAtlasPage, name='uploadAtlasPage'),
+                  path('', blog.index, name='index'),
+                  path('blog', blog.blog, name='blog'),
+                  path('blogdetails', blog.blogdetails, name="blogdetails"),
+                  path('written', blog.written, name="written"),
+                  path('create', blog.create, name="create"),
+                  path('atlas', blog.atlas, name='atlas'),
+                  path('uploadatlas', blog.uploadatlas, name='uploadatlas'),
+                  path('uploadAtlasPage', blog.uploadAtlasPage, name='uploadAtlasPage'),
 
               ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

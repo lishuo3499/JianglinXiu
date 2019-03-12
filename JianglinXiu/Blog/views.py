@@ -13,13 +13,13 @@ def index(request):
 
 
 def blog(request):
-    blog = Blog.objects.all()
-    return render(request, "blog.html", {'blog': blog})
+    blogs = Blog.objects.all()
+    return render(request, "blog.html" , {'blogs': blogs})
 
 
-def blogdetails(request,id):
-    article = Blog.objects.filter(id=id)[0]
-    return render(request, "blogdetails.html",{'article':article})
+def blogdetails(request):
+    article = Blog.objects.filter(id=request.GET['id'])[0]
+    return render(request, "blogdetails.html" , {'article':article})
 
 def atlas(requist):
     blog = Atlas.objects.all()
